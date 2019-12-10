@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# untrack
+git rm -r --cached :GitHub\KrisJennerCapstone\KJ_Project\Intermediate
+git rm -r --cached :GitHub\KrisJennerCapstone\KJ_Project\Saved
