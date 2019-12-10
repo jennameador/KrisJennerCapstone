@@ -1081,3 +1081,70 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.10-03.49.53:333][306]LogSavePackage: Moving '../../../../../../Users/meador28/Desktop/GitHub/KrisJennerCapstone/KJ_Project/Saved/JennaLevel215AC3CA4FD97FE44FB1C0B9DD05AEC2.tmp' to '../../../../../../Users/meador28/Desktop/GitHub/KrisJennerCapstone/KJ_Project/Content/Maps/JennaLevel.umap'
 [2019.12.10-03.49.53:375][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JennaLevel_BuiltData" FILE="../../../../../../Users/meador28/Desktop/GitHub/KrisJennerCapstone/KJ_Project/Content/Maps/JennaLevel_BuiltData.uasset" SILENT=true
 [2019.12.10-03.49.55:132][306]LogSavePackage: Moving '../../../../../../Users/meador28/Desktop/GitHub/KrisJennerCapstone/KJ_Project/Saved/JennaLevel_BuiltData0266AFE54E0346BEE96F608C801572DF.tmp' to '../../../../../../Users/meador28/Desktop/GitHub/KrisJennerCapstone/KJ_Project/Content/Maps/JennaLevel_BuiltData.uasset'
+[2019.12.10-03.51.18:209][780]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-03.51.18:229][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.10-03.51.18:229][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-03.51.18:230][780]PIE: New page: PIE session: JennaLevel (Dec 9, 2019, 5:51:18 PM)
+[2019.12.10-03.51.18:230][780]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.10-03.51.18:726][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.496720s)
+[2019.12.10-03.51.18:727][780]LogAIModule: Creating AISystem for world JennaLevel
+[2019.12.10-03.51.18:728][780]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2019.12.10-03.51.18:728][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JennaLevel.JennaLevel to /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel (0.497944s)
+[2019.12.10-03.51.18:762][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.12.10-03.51.18:767][780]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-03.51.18:795][780]LogInit: FAudioDevice initialized.
+[2019.12.10-03.51.18:803][780]LogLoad: Game class is 'GameModeBase'
+[2019.12.10-03.51.18:822][780]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel up for play (max tick rate 0) at 2019.12.09-22.51.18
+[2019.12.10-03.51.18:822][780]LogWorld: Bringing up level for play took: 0.018420
+[2019.12.10-03.51.18:823][780]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.10-03.51.18:825][780]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_JennaLevel 0.296
+[2019.12.10-03.51.18:825][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.10-03.51.21:362][911]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.10-03.51.21:363][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-03.51.21:363][911]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.10-03.51.21:363][911]LogWorld: UWorld::CleanupWorld for JennaLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-03.51.21:411][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-03.51.21:412][911]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.10-03.51.21:454][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-03.51.21:492][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.12.10-03.51.21:515][912]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.10-03.51.27:079][207]LogEditorViewport: Clicking on Actor (LMB): ExponentialHeightFog (ExponentialHeightFog2)
+[2019.12.10-03.51.29:001][315]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.10-03.51.34:138][574]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.10-03.51.36:784][691]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.10-03.51.37:116][704]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.10-03.51.40:366][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-03.51.45:493][130]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.10-03.52.05:230][160]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-03.52.05:247][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.10-03.52.05:247][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-03.52.05:247][160]PIE: New page: PIE session: JennaLevel (Dec 9, 2019, 5:52:05 PM)
+[2019.12.10-03.52.05:247][160]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.10-03.52.05:734][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.487621s)
+[2019.12.10-03.52.05:735][160]LogAIModule: Creating AISystem for world JennaLevel
+[2019.12.10-03.52.05:735][160]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2019.12.10-03.52.05:735][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JennaLevel.JennaLevel to /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel (0.488890s)
+[2019.12.10-03.52.05:761][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.12.10-03.52.05:766][160]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-03.52.05:791][160]LogInit: FAudioDevice initialized.
+[2019.12.10-03.52.05:791][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-03.52.05:801][160]LogLoad: Game class is 'GameModeBase'
+[2019.12.10-03.52.05:819][160]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel up for play (max tick rate 0) at 2019.12.09-22.52.05
+[2019.12.10-03.52.05:819][160]LogWorld: Bringing up level for play took: 0.017753
+[2019.12.10-03.52.05:820][160]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.10-03.52.05:823][160]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_JennaLevel 1.293
+[2019.12.10-03.52.05:823][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.10-03.52.11:165][460]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.10-03.52.11:165][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-03.52.11:165][460]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.10-03.52.11:165][460]LogWorld: UWorld::CleanupWorld for JennaLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-03.52.11:213][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-03.52.11:213][460]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.10-03.52.11:257][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-03.52.11:291][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.12.10-03.52.11:313][461]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.10-03.52.12:686][533]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-03.52.12:754][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.12.10-03.52.14:781][533]LogSavePackage: Moving '../../../../../../Users/meador28/Desktop/GitHub/KrisJennerCapstone/KJ_Project/Saved/JennaLevel478A8B6C40DAC8B33B9690B5DF35D588.tmp' to '../../../../../../Users/meador28/Desktop/GitHub/KrisJennerCapstone/KJ_Project/Content/Maps/JennaLevel.umap'
+[2019.12.10-03.52.14:820][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JennaLevel_BuiltData" FILE="../../../../../../Users/meador28/Desktop/GitHub/KrisJennerCapstone/KJ_Project/Content/Maps/JennaLevel_BuiltData.uasset" SILENT=true
+[2019.12.10-03.52.16:791][533]LogSavePackage: Moving '../../../../../../Users/meador28/Desktop/GitHub/KrisJennerCapstone/KJ_Project/Saved/JennaLevel_BuiltData49A0AFA44DB4DA85246C8CAEBE0969C3.tmp' to '../../../../../../Users/meador28/Desktop/GitHub/KrisJennerCapstone/KJ_Project/Content/Maps/JennaLevel_BuiltData.uasset'
