@@ -1158,6 +1158,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.10-03.52.50:010][817]LogAIModule: Creating AISystem for world JennaLevel
 [2019.12.10-03.52.50:010][817]LogPlayLevel: PIE: World Init took: (0.001071s)
 [2019.12.10-03.52.50:010][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JennaLevel.JennaLevel to /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel (0.502116s)
+[2019.12.10-03.52.50:043][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
 [2019.12.10-03.52.50:048][817]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
 [2019.12.10-03.52.50:073][817]LogInit: FAudioDevice initialized.
 [2019.12.10-03.52.50:073][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
