@@ -1044,3 +1044,1108 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.11-05.51.55:769][473]LogFileHelpers: Loading map 'JennaLevel' took 2.395
 [2019.12.11-05.51.55:853][473]LogAIModule: Creating AISystem for world KrisTestWorld
 [2019.12.11-05.52.34:538][737]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-05.52.43:050][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-05.52.51:436][156]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-05.53.10:386][717]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-05.53.15:488][835]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-05.53.15:488][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-05.53.15:488][835]PIE: New page: SIE session: JennaLevel (Dec 10, 2019, 7:53:15 PM)
+[2019.12.11-05.53.15:488][835]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.11-05.53.16:248][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.759196s)
+[2019.12.11-05.53.16:249][835]LogAIModule: Creating AISystem for world JennaLevel
+[2019.12.11-05.53.16:249][835]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2019.12.11-05.53.16:249][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JennaLevel.JennaLevel to /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel (0.760678s)
+[2019.12.11-05.53.16:294][835]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2019.12.11-05.53.16:308][835]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-05.53.16:343][835]LogInit: FAudioDevice initialized.
+[2019.12.11-05.53.16:344][835]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-05.53.16:352][835]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-05.53.16:441][835]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel up for play (max tick rate 0) at 2019.12.11-00.53.16
+[2019.12.11-05.53.16:446][835]LogWorld: Bringing up level for play took: 0.093147
+[2019.12.11-05.53.16:446][835]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.12.11-05.53.16:460][835]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_JennaLevel 0.475
+[2019.12.11-05.53.16:497][835]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-05.53.24:704][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-05.53.24:706][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-05.53.24:706][ 69]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.11-05.53.24:709][ 69]LogWorld: UWorld::CleanupWorld for JennaLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-05.53.24:748][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-05.53.24:748][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-05.53.24:795][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-05.53.24:853][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.12.11-05.53.24:869][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.12.11-05.53.29:704][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.12.11-05.57.02:319][967]LogRenderer: Reallocating scene render targets to support 1400x1004 Format 10 NumSamples 1 (Frame:5384).
+[2019.12.11-05.57.14:981][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-05.57.53:748][665]MapCheck: New page: Map Check
+[2019.12.11-05.57.53:880][665]LightingResults: New page: Lighting Build - Dec 10, 2019, 7:57:53 PM
+[2019.12.11-05.57.54:567][665]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.11-05.57.54:857][665]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.11-05.57.54:915][665]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.11-05.57.55:961][665]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.11-05.57.55:961][665]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10892
+[2019.12.11-05.58.07:674][665]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.11-05.58.07:674][665]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.11-05.58.07:674][665]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.11-05.58.07:674][665]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.11-05.58.07:674][665]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.11-05.58.08:748][665]LogEditorBuildUtils: Build time 0:14
+[2019.12.11-05.58.08:916][666]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_2051, compiling. 
+[2019.12.11-05.58.08:942][666]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.12.11-05.58.08:942][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.12.11-05.58.08:942][666]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_2051, compiling. 
+[2019.12.11-05.58.08:974][666]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.12.11-05.58.08:974][666]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.12.11-05.58.43:600][690]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer 01_-_Default, compiling. 
+[2019.12.11-05.58.43:612][690]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.12.11-05.58.43:613][690]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.12.11-05.58.43:613][690]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer 01_-_Default, compiling. 
+[2019.12.11-05.58.44:234][692]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.12.11-05.58.44:234][692]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.12.11-06.00.31:160][745]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.12.11-06.02.28:881][164]Job is a success!
+[2019.12.11-06.02.29:951][165]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.022s
+[2019.12.11-06.02.29:951][165]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.12.11-06.02.29:951][165]LogVolumetricLightmapImport:      BrickData 85x5x5 = 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.12.11-06.02.29:951][165]LogVolumetricLightmapImport:      Bricks at Level
+[2019.12.11-06.02.29:951][165]LogVolumetricLightmapImport:          0: 5.9% covering 100.0% of volume
+[2019.12.11-06.02.29:951][165]LogVolumetricLightmapImport:          1: 11.8% covering 3.1% of volume
+[2019.12.11-06.02.29:951][165]LogVolumetricLightmapImport:          2: 82.4% covering 0.3% of volume
+[2019.12.11-06.02.37:835][165]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:835][165]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:835][165]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:835][165]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:835][165]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:835][165]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:835][165]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:835][165]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:835][165]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:835][165]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:835][165]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:835][165]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 512X512)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 512X512)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:836][165]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2019.12.11-06.02.37:837][165]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2019.12.11-06.02.37:837][165]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:837][165]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:837][165]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 512X512)
+[2019.12.11-06.02.37:837][165]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 512X512)
+[2019.12.11-06.02.37:837][165]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 1024X1024)
+[2019.12.11-06.02.37:837][165]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 1024X1024)
+[2019.12.11-06.02.37:837][165]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 128X128)
+[2019.12.11-06.02.37:837][165]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 128X128)
+[2019.12.11-06.02.37:837][165]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 128X128)
+[2019.12.11-06.02.37:837][165]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 128X128)
+[2019.12.11-06.02.37:837][165]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 64X64)
+[2019.12.11-06.02.37:837][165]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 64X64)
+[2019.12.11-06.02.38:057][165]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X256)
+[2019.12.11-06.02.38:057][165]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X256)
+[2019.12.11-06.02.38:057][165]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X256)
+[2019.12.11-06.02.38:057][165]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X256)
+[2019.12.11-06.02.38:057][165]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X128)
+[2019.12.11-06.02.38:057][165]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X128)
+[2019.12.11-06.02.38:058][165]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X256)
+[2019.12.11-06.02.38:058][165]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2019.12.11-06.02.38:058][165]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2019.12.11-06.02.38:058][165]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X256)
+[2019.12.11-06.02.38:258][165]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X256)
+[2019.12.11-06.02.38:258][165]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X256)
+[2019.12.11-06.02.38:258][165]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X64)
+[2019.12.11-06.02.38:258][165]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X256)
+[2019.12.11-06.02.38:258][165]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X256)
+[2019.12.11-06.02.38:258][165]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X256)
+[2019.12.11-06.02.38:258][165]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 128X64)
+[2019.12.11-06.02.38:258][165]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 64X64)
+[2019.12.11-06.02.38:258][165]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 32X32)
+[2019.12.11-06.02.38:258][165]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X256)
+[2019.12.11-06.02.38:258][165]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 1024X128)
+[2019.12.11-06.02.38:258][165]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 1024X256)
+[2019.12.11-06.02.38:315][165]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X512)
+[2019.12.11-06.02.38:315][165]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 1024X256)
+[2019.12.11-06.02.38:654][165]Lightmass on COSWAEC1104-18: 2:06 min total, 5.15 sec importing, 4.50 sec setup, 39.6 sec photons, 1:16 min processing, 0 ms extra exporting [1067/1067 mappings]. Threads: 8:56 min total, 6:38 min processing.
+[2019.12.11-06.02.38:658][165]LogStaticLightingSystem: JennaLevel_BuiltData storing lightmap data for 1067 meshes in 24 LightmapResourceClusters (44.5 Meshes per cluster).
+[2019.12.11-06.02.38:831][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.12.11-06.02.38:858][165]LogStaticLightingSystem: Illumination: 4:44 min (6.84 sec encoding lightmaps, 472 ms encoding shadowmaps)
+[2019.12.11-06.02.38:858][165]LogStaticLightingSystem: Lightmap texture memory:  35.7 MB (35.7 MB streaming, 0.0 MB non-streaming), 48 textures
+[2019.12.11-06.02.38:858][165]LogStaticLightingSystem: Shadowmap texture memory: 8.2 MB (8.2 MB streaming, 0.0 MB non-streaming), 24 textures
+[2019.12.11-06.02.39:860][165]DumpUnbuiltLightIteractions
+[2019.12.11-06.02.39:860][165]Lights with unbuilt interactions: 0
+[2019.12.11-06.02.39:860][165]
+[2019.12.11-06.02.39:860][165]Primitives with unbuilt interactions: 0
+[2019.12.11-06.02.40:472][166]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.11-06.02.40:472][166]MapCheck: New page: JennaLevel - Dec 10, 2019, 8:02:40 PM
+[2019.12.11-06.02.40:799][166]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 327.052ms to complete.
+[2019.12.11-06.12.05:276][671]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.12.11-06.12.05:276][671]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/JennaLevel' took 0.047
+[2019.12.11-06.14.19:046][677]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-06.14.19:046][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-06.14.19:046][677]PIE: New page: SIE session: JennaLevel (Dec 10, 2019, 8:14:19 PM)
+[2019.12.11-06.14.19:046][677]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.11-06.14.19:747][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.699489s)
+[2019.12.11-06.14.19:748][677]LogAIModule: Creating AISystem for world JennaLevel
+[2019.12.11-06.14.19:748][677]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2019.12.11-06.14.19:748][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JennaLevel.JennaLevel to /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel (0.702649s)
+[2019.12.11-06.14.19:790][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.12.11-06.14.19:799][677]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-06.14.19:841][677]LogInit: FAudioDevice initialized.
+[2019.12.11-06.14.19:852][677]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-06.14.19:975][677]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel up for play (max tick rate 0) at 2019.12.11-01.14.19
+[2019.12.11-06.14.19:981][677]LogWorld: Bringing up level for play took: 0.128051
+[2019.12.11-06.14.19:982][677]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.12.11-06.14.19:986][677]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_JennaLevel 1.926
+[2019.12.11-06.14.19:987][677]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-06.14.26:299][707]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-06.14.26:300][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.14.26:300][707]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.11-06.14.26:302][707]LogWorld: UWorld::CleanupWorld for JennaLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.14.26:796][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-06.14.26:796][707]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-06.14.26:839][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.14.26:902][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.12.11-06.14.26:918][708]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.12.11-06.14.30:064][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.12.11-06.14.34:371][864]LogSlate: Window 'Save Content' being destroyed
+[2019.12.11-06.14.36:157][864]LogSavePackage: Moving '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/JennaLevel_BuiltData1E8E416B4FE63E84038D959DA31062E2.tmp' to '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/Maps/JennaLevel_BuiltData.uasset'
+[2019.12.11-06.14.39:152][882]LogTemp: Repeating last play command: Standalone Game
+[2019.12.11-06.14.39:206][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.12.11-06.18.59:745][676]LogEditorViewport: Clicking on Actor (LMB): TREE_C (TREE1687)
+[2019.12.11-06.19.17:660][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.30.32:071][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.30.37:131][978]LogTemp: Repeating last play command: Standalone Game
+[2019.12.11-06.30.37:193][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.12.11-06.31.37:580][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.31.37:858][208]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.12.11-06.32.31:577][526]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.11-06.32.32:601][526]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-06.32.34:217][635]LogEditorViewport: Clicking on Actor (LMB): TREE_C (TREE359)
+[2019.12.11-06.32.36:919][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.33.20:048][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.33.50:640][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.12.11-06.33.54:902][642]LogSavePackage: Moving '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/JennaLevel_Auto2012D08D548A105562DAEB79CE035C75C.tmp' to '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/Autosaves/Game/Maps/JennaLevel_Auto2.umap'
+[2019.12.11-06.33.54:921][642]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/JennaLevel' took 4.321
+[2019.12.11-06.33.54:921][642]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.321
+[2019.12.11-06.37.40:202][397]LogAssetEditorManager: Opening Asset editor for World /Game/KrisStuff/KrisTestWorld.KrisTestWorld
+[2019.12.11-06.37.40:241][397]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.12.11-06.37.41:373][397]LogSlate: Window 'Save Content' being destroyed
+[2019.12.11-06.37.41:427][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.12.11-06.37.45:251][397]LogSavePackage: Moving '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/JennaLevel9B2149A7432ED054B7AF6BACF4720297.tmp' to '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/Maps/JennaLevel.umap'
+[2019.12.11-06.37.45:303][397]LogFileHelpers: Saving map 'JennaLevel' took 3.923
+[2019.12.11-06.37.45:306][397]LightingResults: New page: Lighting Build
+[2019.12.11-06.37.45:307][397]LoadErrors: New page: Loading map: KrisTestWorld.umap
+[2019.12.11-06.37.45:339][397]LogWorld: UWorld::CleanupWorld for JennaLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.37.45:346][397]MapCheck: New page: Map Check
+[2019.12.11-06.37.45:346][397]LightingResults: New page: Lighting Build
+[2019.12.11-06.37.45:454][397]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2019.12.11-06.37.45:687][397]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.11-06.37.45:723][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.12.11-06.37.45:764][397]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.11-06.37.45:764][397]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.205ms to complete.
+[2019.12.11-06.37.45:767][397]LogFileHelpers: Loading map 'KrisTestWorld' took 0.462
+[2019.12.11-06.37.46:374][397]LogAIModule: Creating AISystem for world JennaLevel
+[2019.12.11-06.39.25:759][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.39.28:869][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.39.36:772][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.11-06.39.37:559][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.11-06.39.38:485][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.39.38:573][547]LogTemp: Repeating last play command: Standalone Game
+[2019.12.11-06.39.38:654][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.12.11-06.39.54:023][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.39.54:098][ 60]LogTemp: Repeating last play command: Standalone Game
+[2019.12.11-06.39.54:158][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.12.11-06.40.08:681][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.11-06.40.13:223][546]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson3)
+[2019.12.11-06.40.15:865][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.42.54:190][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.42.59:262][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPerson_Jump': Can't find file.
+[2019.12.11-06.42.59:263][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPerson_Jump': Can't find file.
+[2019.12.11-06.42.59:263][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Loop': Can't find file.
+[2019.12.11-06.42.59:263][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Loop': Can't find file.
+[2019.12.11-06.42.59:263][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Start': Can't find file.
+[2019.12.11-06.42.59:263][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Start': Can't find file.
+[2019.12.11-06.42.59:264][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPerson_IdleRun_2D': Can't find file.
+[2019.12.11-06.42.59:264][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPerson_IdleRun_2D': Can't find file.
+[2019.12.11-06.42.59:265][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPerson_IdleRun_2D': Can't find file.
+[2019.12.11-06.42.59:265][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPerson_IdleRun_2D': Can't find file.
+[2019.12.11-06.42.59:266][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPerson_Jump': Can't find file.
+[2019.12.11-06.42.59:266][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPerson_Jump': Can't find file.
+[2019.12.11-06.42.59:266][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Loop': Can't find file.
+[2019.12.11-06.42.59:266][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Loop': Can't find file.
+[2019.12.11-06.42.59:266][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Start': Can't find file.
+[2019.12.11-06.42.59:267][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Start': Can't find file.
+[2019.12.11-06.42.59:270][473]LogLinker: Warning: Failed to load '/Game/MyStuff/OurDood/ThirdPerson_Jump': Can't find file.
+[2019.12.11-06.42.59:270][473]LogLinker: Warning: Failed to load '/Game/MyStuff/OurDood/ThirdPerson_Jump': Can't find file.
+[2019.12.11-06.42.59:270][473]LogLinker: Warning: Failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Loop': Can't find file.
+[2019.12.11-06.42.59:270][473]LogLinker: Warning: Failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Loop': Can't find file.
+[2019.12.11-06.42.59:270][473]LogLinker: Warning: Failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Start': Can't find file.
+[2019.12.11-06.42.59:270][473]LogLinker: Warning: Failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Start': Can't find file.
+[2019.12.11-06.42.59:271][473]LogLinker: Warning: Failed to load '/Game/MyStuff/OurDood/ThirdPerson_IdleRun_2D': Can't find file.
+[2019.12.11-06.42.59:271][473]LogLinker: Warning: Failed to load '/Game/MyStuff/OurDood/ThirdPerson_IdleRun_2D': Can't find file.
+[2019.12.11-06.42.59:271][473]LogLinker: Warning: Failed to load '/Game/MyStuff/OurDood/ThirdPerson_IdleRun_2D': Can't find file.
+[2019.12.11-06.42.59:271][473]LogLinker: Warning: Failed to load '/Game/MyStuff/OurDood/ThirdPerson_IdleRun_2D': Can't find file.
+[2019.12.11-06.42.59:271][473]LogLinker: Warning: Failed to load '/Game/MyStuff/OurDood/ThirdPerson_Jump': Can't find file.
+[2019.12.11-06.42.59:271][473]LogLinker: Warning: Failed to load '/Game/MyStuff/OurDood/ThirdPerson_Jump': Can't find file.
+[2019.12.11-06.42.59:271][473]LogLinker: Warning: Failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Loop': Can't find file.
+[2019.12.11-06.42.59:272][473]LogLinker: Warning: Failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Loop': Can't find file.
+[2019.12.11-06.42.59:272][473]LogLinker: Warning: Failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Start': Can't find file.
+[2019.12.11-06.42.59:272][473]LogLinker: Warning: Failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Start': Can't find file.
+[2019.12.11-06.42.59:272][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPerson_Jump': Can't find file.
+[2019.12.11-06.42.59:272][473]LoadErrors: Failed to load /Game/MyStuff/OurDood/ThirdPerson_Jump.ThirdPerson_Jump Referenced by Default__ThirdPerson_AnimBP_C
+[2019.12.11-06.42.59:272][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPerson_Jump': Can't find file.
+[2019.12.11-06.42.59:273][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Loop': Can't find file.
+[2019.12.11-06.42.59:273][473]LoadErrors: Failed to load /Game/MyStuff/OurDood/ThirdPersonJump_Loop.ThirdPersonJump_Loop Referenced by Default__ThirdPerson_AnimBP_C
+[2019.12.11-06.42.59:273][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Loop': Can't find file.
+[2019.12.11-06.42.59:273][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Start': Can't find file.
+[2019.12.11-06.42.59:273][473]LoadErrors: Failed to load /Game/MyStuff/OurDood/ThirdPersonJump_Start.ThirdPersonJump_Start Referenced by Default__ThirdPerson_AnimBP_C
+[2019.12.11-06.42.59:273][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Start': Can't find file.
+[2019.12.11-06.42.59:273][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPerson_IdleRun_2D': Can't find file.
+[2019.12.11-06.42.59:273][473]LoadErrors: Failed to load /Game/MyStuff/OurDood/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D Referenced by Default__ThirdPerson_AnimBP_C
+[2019.12.11-06.42.59:274][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPerson_IdleRun_2D': Can't find file.
+[2019.12.11-06.42.59:276][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPerson_IdleRun_2D': Can't find file.
+[2019.12.11-06.42.59:276][473]LoadErrors: Failed to load /Game/MyStuff/OurDood/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D Referenced by AnimGraphNode_BlendSpacePlayer_9
+[2019.12.11-06.42.59:276][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPerson_IdleRun_2D': Can't find file.
+[2019.12.11-06.42.59:277][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Start': Can't find file.
+[2019.12.11-06.42.59:277][473]LoadErrors: Failed to load /Game/MyStuff/OurDood/ThirdPersonJump_Start.ThirdPersonJump_Start Referenced by AnimGraphNode_SequencePlayer_34
+[2019.12.11-06.42.59:278][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Start': Can't find file.
+[2019.12.11-06.42.59:278][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Loop': Can't find file.
+[2019.12.11-06.42.59:278][473]LoadErrors: Failed to load /Game/MyStuff/OurDood/ThirdPersonJump_Loop.ThirdPersonJump_Loop Referenced by AnimGraphNode_SequencePlayer_40
+[2019.12.11-06.42.59:279][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonJump_Loop': Can't find file.
+[2019.12.11-06.42.59:279][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPerson_Jump': Can't find file.
+[2019.12.11-06.42.59:279][473]LoadErrors: Failed to load /Game/MyStuff/OurDood/ThirdPerson_Jump.ThirdPerson_Jump Referenced by AnimGraphNode_SequencePlayer_46
+[2019.12.11-06.42.59:279][473]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPerson_Jump': Can't find file.
+[2019.12.11-06.42.59:513][473]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Blendspace Player '(None)'  references an unknown blend space
+[2019.12.11-06.42.59:521][473]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Play (None)  references an unknown sequence
+[2019.12.11-06.42.59:521][473]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Play (None)  references an unknown sequence
+[2019.12.11-06.42.59:522][473]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Play (None)  references an unknown sequence
+[2019.12.11-06.42.59:537][473]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] ICE: Player node  Play (None)  was not processed prior to handling a transition getter  Animation Asset  that used it
+[2019.12.11-06.42.59:538][473]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] ICE: Player node  Play (None)  was not processed prior to handling a transition getter  Animation Asset  that used it
+[2019.12.11-06.42.59:539][473]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Missing allocated node for AnimGraphNode_BlendSpacePlayer_9 while searching for node links - likely due to the node having outstanding errors.
+[2019.12.11-06.42.59:539][473]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_34 while searching for node links - likely due to the node having outstanding errors.
+[2019.12.11-06.42.59:539][473]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_40 while searching for node links - likely due to the node having outstanding errors.
+[2019.12.11-06.42.59:539][473]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_46 while searching for node links - likely due to the node having outstanding errors.
+[2019.12.11-06.42.59:540][473]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  Animation Asset
+[2019.12.11-06.42.59:540][473]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  Animation Asset
+[2019.12.11-06.42.59:541][473]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  Animation Asset
+[2019.12.11-06.42.59:541][473]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  Animation Asset
+[2019.12.11-06.42.59:562][473]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/KrisStuff/OurDood/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2019.12.11-06.42.59:661][473]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.11-06.43.00:234][473]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.11-06.43.47:678][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.45.17:661][ 28]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_IdleRun_2D.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonIdle': Can't find file.
+[2019.12.11-06.45.17:661][ 28]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_IdleRun_2D.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonIdle': Can't find file.
+[2019.12.11-06.45.17:663][ 28]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_IdleRun_2D.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonWalk': Can't find file.
+[2019.12.11-06.45.17:663][ 28]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_IdleRun_2D.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonWalk': Can't find file.
+[2019.12.11-06.45.17:663][ 28]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_IdleRun_2D.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonIdle': Can't find file.
+[2019.12.11-06.45.17:663][ 28]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_IdleRun_2D.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonIdle': Can't find file.
+[2019.12.11-06.45.17:664][ 28]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_IdleRun_2D.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonWalk': Can't find file.
+[2019.12.11-06.45.17:664][ 28]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_IdleRun_2D.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonWalk': Can't find file.
+[2019.12.11-06.45.17:664][ 28]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_IdleRun_2D.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonIdle': Can't find file.
+[2019.12.11-06.45.17:664][ 28]LoadErrors: Failed to load /Game/MyStuff/OurDood/ThirdPersonIdle.ThirdPersonIdle Referenced by ThirdPerson_IdleRun_2D
+[2019.12.11-06.45.17:665][ 28]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_IdleRun_2D.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonIdle': Can't find file.
+[2019.12.11-06.45.17:665][ 28]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_IdleRun_2D.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonWalk': Can't find file.
+[2019.12.11-06.45.17:665][ 28]LoadErrors: Failed to load /Game/MyStuff/OurDood/ThirdPersonWalk.ThirdPersonWalk Referenced by ThirdPerson_IdleRun_2D
+[2019.12.11-06.45.17:665][ 28]LogLinker: Warning: While loading '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_IdleRun_2D.uasset' failed to load '/Game/MyStuff/OurDood/ThirdPersonWalk': Can't find file.
+[2019.12.11-06.45.17:666][ 28]LoadErrors: Error: The BlendSpace  ThirdPerson_IdleRun_2D  has sample with no animation. Recommend to remove sample point or set new animation.
+[2019.12.11-06.45.17:699][ 28]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MyStuff/OurDood/ThirdPersonRun.ThirdPersonRun
+[2019.12.11-06.45.17:699][ 28]LogAnimationCompression: Recompressing (AnimSequence /Game/MyStuff/OurDood/ThirdPersonRun.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.11-06.46.03:879][548]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/KrisStuff/OurDood/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2019.12.11-06.46.03:879][548]LogAnimationCompression: Recompressing (AnimSequence /Game/KrisStuff/OurDood/ThirdPersonJump_Start.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.11-06.46.04:613][598]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-06.47.16:048][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-06.47.38:106][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-06.48.02:220][265]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:220][265]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:220][265]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:220][265]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:236][266]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:236][266]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:557][267]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:557][267]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:597][268]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:597][268]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:623][269]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:623][269]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:639][270]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:639][270]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:673][271]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:673][271]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:687][272]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:687][272]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:710][273]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:710][273]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:757][274]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:757][274]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:773][275]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:773][275]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:794][276]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:794][276]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:838][277]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:838][277]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:853][278]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:853][278]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:876][279]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:877][279]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:925][280]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:925][280]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:945][281]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:945][281]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:959][282]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.02:960][282]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:002][283]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:002][283]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:015][284]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:015][284]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:042][285]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:042][285]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:088][286]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:088][286]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:102][287]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:102][287]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:127][288]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:127][288]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:173][289]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:173][289]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:185][290]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:185][290]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:207][291]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:207][291]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:220][292]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:220][292]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:234][293]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:234][293]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:248][294]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:248][294]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:261][295]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:261][295]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:276][296]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:276][296]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:320][297]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:320][297]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:333][298]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:333][298]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:361][299]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:362][299]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:408][300]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:408][300]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:421][301]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:421][301]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:445][302]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:445][302]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:542][303]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:543][303]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:557][304]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:557][304]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:571][305]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:571][305]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:583][306]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:583][306]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:609][307]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:610][307]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:623][308]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:623][308]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:649][309]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:649][309]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:701][310]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:701][310]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:734][311]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:734][311]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:751][312]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:751][312]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:767][313]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:767][313]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:807][314]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:807][314]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:821][315]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:821][315]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:842][316]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:842][316]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:885][317]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:885][317]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:899][318]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:899][318]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:924][319]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:924][319]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:970][320]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:970][320]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:984][321]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.03:984][321]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:011][322]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:011][322]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:053][323]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:053][323]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:068][324]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:068][324]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:090][325]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:090][325]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:137][326]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:137][326]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:150][327]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:150][327]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:173][328]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:173][328]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:215][329]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:216][329]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:229][330]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:229][330]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:255][331]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:256][331]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:301][332]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:301][332]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:314][333]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:314][333]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:334][334]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:334][334]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:346][335]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:346][335]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:359][336]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:359][336]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:362][337]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2019.12.11-06.48.04:800][337]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2019.12.11-06.48.04:824][337]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:824][337]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:824][337]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:824][337]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:842][338]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.04:842][338]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:237][339]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:237][339]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:281][340]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:281][340]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:329][341]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:329][341]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:379][342]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:379][342]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:428][343]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:428][343]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:476][344]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:476][344]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:521][345]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:521][345]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:562][346]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:562][346]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:577][347]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:577][347]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:593][348]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:593][348]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:609][349]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:609][349]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:627][350]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:627][350]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:642][351]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:642][351]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:666][352]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:666][352]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:710][353]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:710][353]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:724][354]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:724][354]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:739][355]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:739][355]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:739][355]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:739][355]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:739][355]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:747][355]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:747][355]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:753][355]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:753][355]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:754][355]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:754][355]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:786][356]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:787][356]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:793][356]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:793][356]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:794][356]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:794][356]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:801][357]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:801][357]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:806][357]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:807][357]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:807][357]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:807][357]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:826][358]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:826][358]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:832][358]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:832][358]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:833][358]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:833][358]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:876][359]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:876][359]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:889][360]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:889][360]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:912][361]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:912][361]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:956][362]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:956][362]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:968][363]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:968][363]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:993][364]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.05:993][364]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:037][365]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:038][365]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:051][366]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:051][366]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:082][367]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:082][367]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:123][368]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:123][368]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:136][369]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:136][369]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:161][370]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:161][370]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:206][371]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:206][371]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:220][372]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:220][372]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:245][373]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:246][373]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:287][374]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:287][374]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:302][375]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:302][375]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:325][376]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:325][376]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:368][377]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:368][377]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:383][378]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:383][378]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:408][379]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:408][379]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:452][380]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:452][380]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:465][381]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:465][381]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:489][382]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:489][382]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:532][383]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:533][383]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:546][384]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:546][384]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:570][385]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:570][385]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:614][386]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:614][386]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:628][387]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:628][387]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:655][388]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:655][388]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:698][389]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:698][389]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:714][390]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:714][390]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:738][391]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:738][391]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:781][392]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:781][392]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:795][393]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:795][393]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:818][394]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:818][394]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:862][395]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:862][395]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:878][396]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:878][396]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:901][397]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:901][397]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:947][398]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:947][398]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:961][399]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:961][399]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:985][400]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.06:985][400]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:027][401]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:027][401]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:041][402]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:041][402]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:068][403]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:068][403]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:110][404]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:110][404]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:124][405]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:124][405]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:146][406]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:146][406]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:193][407]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:193][407]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:208][408]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:208][408]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:232][409]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:232][409]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:278][410]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:279][410]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:292][411]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:293][411]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:311][412]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:311][412]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:324][413]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:324][413]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:340][414]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:340][414]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:386][415]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:386][415]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:401][416]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:401][416]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:415][417]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:415][417]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:443][418]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:443][418]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:456][419]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:456][419]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:480][420]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:480][420]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:524][421]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:524][421]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:537][422]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:537][422]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:561][423]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:561][423]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:605][424]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:605][424]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:617][425]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.07:617][425]LogBlueprint: Warning: FMemberReference::ResolveMember (IsInAir?) bSelfContext == true, but no scope supplied!
+[2019.12.11-06.48.10:316][553]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2019.12.11-06.48.12:700][791]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/KrisStuff/OurDood/ThirdPersonRun.ThirdPersonRun
+[2019.12.11-06.48.12:711][791]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.11-06.48.12:745][791]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.11-06.48.13:108][791]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.12.11-06.48.19:321][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.48.29:289][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.48.30:447][863]LogTemp: Repeating last play command: Standalone Game
+[2019.12.11-06.48.30:504][863]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2019.12.11-06.48.32:971][863]LogSlate: Window 'Save Content' being destroyed
+[2019.12.11-06.48.33:058][863]LogSavePackage: Moving '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/ThirdPerson_AnimBP318094E9452424BCA1A05FB0C0A07796.tmp' to '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/OurDood/ThirdPerson_AnimBP.uasset'
+[2019.12.11-06.48.39:686][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-06.48.42:093][369]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.48.42:093][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-06.48.42:094][369]PIE: New page: PIE session: KrisTestWorld (Dec 10, 2019, 8:48:42 PM)
+[2019.12.11-06.48.42:094][369]LogPlayLevel: Creating play world package: /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-06.48.42:098][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004719s)
+[2019.12.11-06.48.42:099][369]LogAIModule: Creating AISystem for world KrisTestWorld
+[2019.12.11-06.48.42:100][369]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2019.12.11-06.48.42:100][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KrisStuff/KrisTestWorld.KrisTestWorld to /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld (0.005990s)
+[2019.12.11-06.48.42:145][369]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.12.11-06.48.42:155][369]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-06.48.42:185][369]LogInit: FAudioDevice initialized.
+[2019.12.11-06.48.42:186][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-06.48.42:194][369]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-06.48.42:196][369]LogWorld: Bringing World /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld up for play (max tick rate 0) at 2019.12.11-01.48.42
+[2019.12.11-06.48.42:197][369]LogWorld: Bringing up level for play took: 0.002916
+[2019.12.11-06.48.42:197][369]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2019.12.11-06.48.42:201][369]PIE: Play in editor start time for /Game/KrisStuff/UEDPIE_0_KrisTestWorld 0.086
+[2019.12.11-06.48.42:201][369]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.48.42:225][370]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.48.47:726][688]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.48.47:726][688]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.48.48:928][762]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.48.49:998][823]LogBlueprintUserMessages: [AIPerson_2] Changed to Chasing State
+[2019.12.11-06.48.50:097][829]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.48.50:097][829]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.48.50:748][866]LogBlueprintUserMessages: [AIPerson_2] Changed to Patrolling State
+[2019.12.11-06.48.50:748][866]LogBlueprintUserMessages: [AIPerson_2] Changed to Searching State
+[2019.12.11-06.48.51:084][884]LogBlueprintUserMessages: [AIPerson_2] Changed to Chasing State
+[2019.12.11-06.48.51:408][900]LogBlueprintUserMessages: [AIPerson_2] Changed to Patrolling State
+[2019.12.11-06.48.51:408][900]LogBlueprintUserMessages: [AIPerson_2] Changed to Searching State
+[2019.12.11-06.48.51:520][906]LogBlueprintUserMessages: [AIPerson_2] Changed to Chasing State
+[2019.12.11-06.48.51:836][922]LogBlueprintUserMessages: [AIPerson_2] Changed to Patrolling State
+[2019.12.11-06.48.51:836][922]LogBlueprintUserMessages: [AIPerson_2] Changed to Searching State
+[2019.12.11-06.48.55:752][149]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.48.55:752][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.48.55:752][149]LogWorld: BeginTearingDown for /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-06.48.55:753][149]LogWorld: UWorld::CleanupWorld for KrisTestWorld, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.48.55:798][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-06.48.55:799][149]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.48.55:870][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.48.55:875][149]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.12.11-06.48.55:898][150]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.12.11-06.49.12:631][395]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson3)
+[2019.12.11-06.49.32:714][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.49.36:690][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-06.50.00:704][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-06.50.00:724][ 78]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.50.00:725][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-06.50.00:725][ 78]PIE: New page: PIE session: KrisTestWorld (Dec 10, 2019, 8:50:00 PM)
+[2019.12.11-06.50.00:725][ 78]LogPlayLevel: Creating play world package: /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-06.50.00:731][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006147s)
+[2019.12.11-06.50.00:732][ 78]LogAIModule: Creating AISystem for world KrisTestWorld
+[2019.12.11-06.50.00:733][ 78]LogPlayLevel: PIE: World Init took: (0.001591s)
+[2019.12.11-06.50.00:733][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KrisStuff/KrisTestWorld.KrisTestWorld to /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld (0.007968s)
+[2019.12.11-06.50.00:781][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.12.11-06.50.00:791][ 78]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-06.50.00:823][ 78]LogInit: FAudioDevice initialized.
+[2019.12.11-06.50.00:832][ 78]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-06.50.00:834][ 78]LogWorld: Bringing World /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld up for play (max tick rate 0) at 2019.12.11-01.50.00
+[2019.12.11-06.50.00:835][ 78]LogWorld: Bringing up level for play took: 0.001986
+[2019.12.11-06.50.00:835][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2019.12.11-06.50.00:837][ 78]PIE: Play in editor start time for /Game/KrisStuff/UEDPIE_0_KrisTestWorld 0.721
+[2019.12.11-06.50.00:838][ 78]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.50.01:347][104]LogBlueprintUserMessages: [AIPerson_2] Changed to Chasing State
+[2019.12.11-06.50.01:543][114]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.50.01:859][129]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.50.01:859][129]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.50.01:881][130]LogBlueprintUserMessages: [AIPerson_2] Changed to Patrolling State
+[2019.12.11-06.50.01:881][130]LogBlueprintUserMessages: [AIPerson_2] Changed to Searching State
+[2019.12.11-06.50.02:007][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.50.02:007][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.50.02:007][136]LogWorld: BeginTearingDown for /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-06.50.02:007][136]LogWorld: UWorld::CleanupWorld for KrisTestWorld, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.50.02:057][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-06.50.02:057][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.50.02:104][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.50.02:109][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.12.11-06.50.02:133][137]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.12.11-06.50.07:913][347]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson2)
+[2019.12.11-06.50.09:681][406]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-06.50.15:632][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.50.15:727][638]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-06.50.15:743][638]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.50.15:743][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-06.50.15:743][638]PIE: New page: PIE session: KrisTestWorld (Dec 10, 2019, 8:50:15 PM)
+[2019.12.11-06.50.15:744][638]LogPlayLevel: Creating play world package: /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-06.50.15:747][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003315s)
+[2019.12.11-06.50.15:748][638]LogAIModule: Creating AISystem for world KrisTestWorld
+[2019.12.11-06.50.15:748][638]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2019.12.11-06.50.15:748][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KrisStuff/KrisTestWorld.KrisTestWorld to /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld (0.004367s)
+[2019.12.11-06.50.15:790][638]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.12.11-06.50.15:798][638]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-06.50.15:832][638]LogInit: FAudioDevice initialized.
+[2019.12.11-06.50.15:843][638]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-06.50.15:846][638]LogWorld: Bringing World /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld up for play (max tick rate 0) at 2019.12.11-01.50.15
+[2019.12.11-06.50.15:847][638]LogWorld: Bringing up level for play took: 0.002413
+[2019.12.11-06.50.15:847][638]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2019.12.11-06.50.15:849][638]PIE: Play in editor start time for /Game/KrisStuff/UEDPIE_0_KrisTestWorld -0.267
+[2019.12.11-06.50.15:850][638]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.50.16:978][695]LogBlueprintUserMessages: [AIPerson_2] Changed to Chasing State
+[2019.12.11-06.50.17:407][715]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.50.17:511][720]LogBlueprintUserMessages: [AIPerson_2] Changed to Patrolling State
+[2019.12.11-06.50.17:512][720]LogBlueprintUserMessages: [AIPerson_2] Changed to Searching State
+[2019.12.11-06.50.17:621][725]LogBlueprintUserMessages: [AIPerson_2] Changed to Chasing State
+[2019.12.11-06.50.17:938][740]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.50.17:938][740]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.50.17:938][740]LogBlueprintUserMessages: [AIPerson_2] Changed to Patrolling State
+[2019.12.11-06.50.17:938][740]LogBlueprintUserMessages: [AIPerson_2] Changed to Searching State
+[2019.12.11-06.50.21:335][930]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.50.21:652][946]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.50.21:652][946]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.50.22:371][986]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.50.22:372][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.50.22:372][986]LogWorld: BeginTearingDown for /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-06.50.22:372][986]LogWorld: UWorld::CleanupWorld for KrisTestWorld, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.50.22:425][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-06.50.22:425][986]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.50.22:481][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.50.22:486][986]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.12.11-06.50.22:510][987]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.12.11-06.50.31:778][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.50.41:849][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.51.00:975][548]BlueprintLog: New page: Compile AIPerson
+[2019.12.11-06.51.01:427][548]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2019.12.11-06.51.03:160][619]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-06.51.03:182][619]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.51.03:182][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-06.51.03:182][619]PIE: New page: PIE session: KrisTestWorld (Dec 10, 2019, 8:51:03 PM)
+[2019.12.11-06.51.03:182][619]LogPlayLevel: Creating play world package: /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-06.51.03:185][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003479s)
+[2019.12.11-06.51.03:186][619]LogAIModule: Creating AISystem for world KrisTestWorld
+[2019.12.11-06.51.03:186][619]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2019.12.11-06.51.03:186][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KrisStuff/KrisTestWorld.KrisTestWorld to /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld (0.004511s)
+[2019.12.11-06.51.03:231][619]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2019.12.11-06.51.03:239][619]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-06.51.03:270][619]LogInit: FAudioDevice initialized.
+[2019.12.11-06.51.03:276][619]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-06.51.03:278][619]LogWorld: Bringing World /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld up for play (max tick rate 0) at 2019.12.11-01.51.03
+[2019.12.11-06.51.03:279][619]LogWorld: Bringing up level for play took: 0.001988
+[2019.12.11-06.51.03:279][619]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2019.12.11-06.51.03:281][619]PIE: Play in editor start time for /Game/KrisStuff/UEDPIE_0_KrisTestWorld -0.836
+[2019.12.11-06.51.03:281][619]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.51.05:393][748]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.51.05:393][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.51.05:393][748]LogWorld: BeginTearingDown for /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-06.51.05:394][748]LogWorld: UWorld::CleanupWorld for KrisTestWorld, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.51.05:433][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-06.51.05:433][748]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.51.05:481][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.51.05:490][748]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2019.12.11-06.51.05:520][749]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.12.11-06.51.11:041][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.51.11:117][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-06.51.11:132][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.51.11:133][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-06.51.11:133][ 41]PIE: New page: PIE session: KrisTestWorld (Dec 10, 2019, 8:51:11 PM)
+[2019.12.11-06.51.11:133][ 41]LogPlayLevel: Creating play world package: /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-06.51.11:137][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004599s)
+[2019.12.11-06.51.11:138][ 41]LogAIModule: Creating AISystem for world KrisTestWorld
+[2019.12.11-06.51.11:138][ 41]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2019.12.11-06.51.11:139][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KrisStuff/KrisTestWorld.KrisTestWorld to /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld (0.005703s)
+[2019.12.11-06.51.11:182][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.12.11-06.51.11:190][ 41]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-06.51.11:220][ 41]LogInit: FAudioDevice initialized.
+[2019.12.11-06.51.11:228][ 41]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-06.51.11:230][ 41]LogWorld: Bringing World /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld up for play (max tick rate 0) at 2019.12.11-01.51.11
+[2019.12.11-06.51.11:231][ 41]LogWorld: Bringing up level for play took: 0.001968
+[2019.12.11-06.51.11:231][ 41]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2019.12.11-06.51.11:233][ 41]PIE: Play in editor start time for /Game/KrisStuff/UEDPIE_0_KrisTestWorld -0.884
+[2019.12.11-06.51.11:234][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.51.11:279][ 42]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.51.11:811][ 67]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.51.11:811][ 67]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.51.11:924][ 73]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.51.12:614][111]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.51.13:143][139]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.51.13:143][139]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.51.13:259][145]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.51.14:444][216]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.51.14:444][216]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.51.19:699][527]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.51.20:136][552]LogBlueprintUserMessages: [AIPerson_2] Changed to Chasing State
+[2019.12.11-06.51.20:685][581]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.51.20:685][581]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.51.20:792][587]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.51.22:155][658]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.51.22:155][658]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.51.22:266][664]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.51.22:411][672]LogBlueprintUserMessages: [AIPerson_2] Changed to Patrolling State
+[2019.12.11-06.51.22:411][672]LogBlueprintUserMessages: [AIPerson_2] Changed to Searching State
+[2019.12.11-06.51.22:411][672]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.51.22:411][672]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.51.23:662][746]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.51.23:662][746]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.51.25:281][846]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.51.25:814][878]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.51.25:814][878]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.51.31:975][256]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.51.32:299][275]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.51.32:299][275]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.51.32:352][278]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.51.32:352][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.51.32:352][278]LogWorld: BeginTearingDown for /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-06.51.32:352][278]LogWorld: UWorld::CleanupWorld for KrisTestWorld, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.51.32:402][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-06.51.32:402][278]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.51.32:451][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.51.32:458][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.12.11-06.51.32:482][279]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.12.11-06.51.56:551][402]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-06.51.56:636][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.12.11-06.51.56:954][402]LogSavePackage: Moving '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/KrisTestWorld_Auto32B7AF15F411CC8DF504483B7AD2627B0.tmp' to '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/Autosaves/Game/KrisStuff/KrisTestWorld_Auto3.umap'
+[2019.12.11-06.51.56:967][402]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/KrisStuff/KrisTestWorld' took 0.375
+[2019.12.11-06.51.56:967][402]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.375
+[2019.12.11-06.51.56:969][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/KrisStuff/AIPerson] ([1] browsable assets)...
+[2019.12.11-06.51.57:034][402]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/KrisStuff/AIPerson.AIPerson]
+[2019.12.11-06.51.57:034][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/KrisStuff/AIPerson]
+[2019.12.11-06.51.57:149][402]LogSavePackage: Moving '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/AIPerson_Auto38CBCEB12436A2D86DC8DA7AD75A68789.tmp' to '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/Autosaves/Game/KrisStuff/AIPerson_Auto3.uasset'
+[2019.12.11-06.51.57:151][402]LogFileHelpers: Auto-saving content packages took 0.183
+[2019.12.11-06.52.18:598][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.52.18:666][351]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-06.52.18:683][351]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.52.18:683][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-06.52.18:684][351]PIE: New page: PIE session: KrisTestWorld (Dec 10, 2019, 8:52:18 PM)
+[2019.12.11-06.52.18:684][351]LogPlayLevel: Creating play world package: /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-06.52.18:687][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003896s)
+[2019.12.11-06.52.18:689][351]LogAIModule: Creating AISystem for world KrisTestWorld
+[2019.12.11-06.52.18:690][351]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2019.12.11-06.52.18:690][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KrisStuff/KrisTestWorld.KrisTestWorld to /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld (0.005179s)
+[2019.12.11-06.52.18:734][351]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.12.11-06.52.18:741][351]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-06.52.18:770][351]LogInit: FAudioDevice initialized.
+[2019.12.11-06.52.18:776][351]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-06.52.18:778][351]LogWorld: Bringing World /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld up for play (max tick rate 0) at 2019.12.11-01.52.18
+[2019.12.11-06.52.18:779][351]LogWorld: Bringing up level for play took: 0.002101
+[2019.12.11-06.52.18:779][351]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2019.12.11-06.52.18:781][351]PIE: Play in editor start time for /Game/KrisStuff/UEDPIE_0_KrisTestWorld 0.663
+[2019.12.11-06.52.18:781][351]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.52.20:818][449]LogBlueprintUserMessages: [AIPerson_2] Changed to Chasing State
+[2019.12.11-06.52.23:445][588]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.52.23:673][599]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.52.24:214][626]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.52.24:214][626]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.52.25:260][681]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.52.29:948][905]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.52.29:948][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.52.29:948][905]LogWorld: BeginTearingDown for /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-06.52.29:949][905]LogWorld: UWorld::CleanupWorld for KrisTestWorld, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.52.30:010][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-06.52.30:011][905]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.52.30:071][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.52.30:078][905]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.12.11-06.52.30:104][906]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.12.11-06.54.28:920][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.56.44:408][641]AssetReimport: New page: Outstanding source content changes 8:56:44 PM
+[2019.12.11-06.56.44:427][641]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/Stop_Youve_violated_the_law.wav)
+[2019.12.11-06.56.44:543][642]LogSavePackage: Moving '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/Stop_Youve_violated_the_lawB82DAE884DD594A9D7A35EAF568A52C3.tmp' to '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/Stop_Youve_violated_the_law.uasset'
+[2019.12.11-06.56.47:573][949]AssetReimport: Importing new asset /Game/KrisStuff/Stop_Youve_violated_the_law.
+[2019.12.11-06.56.52:974][519]BlueprintLog: New page: Compile AIPerson
+[2019.12.11-06.56.53:408][519]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2019.12.11-06.57.00:583][689]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-06.57.00:607][689]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.57.00:607][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-06.57.00:607][689]PIE: New page: PIE session: KrisTestWorld (Dec 10, 2019, 8:57:00 PM)
+[2019.12.11-06.57.00:607][689]LogPlayLevel: Creating play world package: /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-06.57.00:611][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003909s)
+[2019.12.11-06.57.00:612][689]LogAIModule: Creating AISystem for world KrisTestWorld
+[2019.12.11-06.57.00:612][689]LogPlayLevel: PIE: World Init took: (0.001358s)
+[2019.12.11-06.57.00:612][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KrisStuff/KrisTestWorld.KrisTestWorld to /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld (0.005428s)
+[2019.12.11-06.57.00:665][689]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2019.12.11-06.57.00:675][689]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-06.57.00:711][689]LogInit: FAudioDevice initialized.
+[2019.12.11-06.57.00:721][689]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-06.57.00:724][689]LogWorld: Bringing World /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld up for play (max tick rate 0) at 2019.12.11-01.57.00
+[2019.12.11-06.57.00:724][689]LogWorld: Bringing up level for play took: 0.002212
+[2019.12.11-06.57.00:724][689]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2019.12.11-06.57.00:727][689]PIE: Play in editor start time for /Game/KrisStuff/UEDPIE_0_KrisTestWorld 0.604
+[2019.12.11-06.57.00:727][689]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.57.03:341][822]LogBlueprintUserMessages: [AIPerson_2] Changed to Chasing State
+[2019.12.11-06.57.05:740][961]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.57.07:369][ 44]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.57.07:369][ 44]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.57.07:370][ 44]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Stop_Youve_violated_the_law...
+[2019.12.11-06.57.07:439][ 44]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 533012 while cooking SoundWave /Game/KrisStuff/Stop_Youve_violated_the_law.Stop_Youve_violated_the_law.
+[2019.12.11-06.57.07:469][ 47]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.57.13:929][414]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.57.13:929][414]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.57.14:065][422]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.57.15:592][512]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.57.16:344][557]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.57.16:344][557]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.57.18:709][694]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.57.18:709][694]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.57.18:812][700]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.57.19:122][718]LogBlueprintUserMessages: [AIPerson_2] Changed to Patrolling State
+[2019.12.11-06.57.19:122][718]LogBlueprintUserMessages: [AIPerson_2] Changed to Searching State
+[2019.12.11-06.57.20:096][777]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.57.20:843][822]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.57.20:843][822]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.57.21:171][842]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.57.25:821][121]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.57.25:821][121]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.57.25:821][121]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.57.25:821][121]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.57.25:927][127]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.57.25:928][127]LogBlueprintUserMessages: [AIPerson_2] Changed to Chasing State
+[2019.12.11-06.57.26:140][139]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.57.28:402][270]LogBlueprintUserMessages: [AIPerson_2] Changed to Patrolling State
+[2019.12.11-06.57.28:402][270]LogBlueprintUserMessages: [AIPerson_2] Changed to Searching State
+[2019.12.11-06.57.28:402][270]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.57.28:402][270]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.57.28:531][278]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.57.29:497][335]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.57.29:497][335]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.57.29:497][335]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.57.29:497][335]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.57.29:616][342]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.57.29:838][355]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.57.30:362][386]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.57.30:363][386]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.57.31:460][452]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.57.31:460][452]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.57.31:587][460]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.57.32:121][494]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.57.32:121][494]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.57.32:252][502]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.57.32:683][528]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.57.32:996][546]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.57.32:996][546]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.57.33:215][558]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.57.33:215][558]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.57.34:214][617]LogBlueprintUserMessages: [AIPerson_2] Changed to Chasing State
+[2019.12.11-06.57.34:427][629]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.57.34:427][629]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.57.34:528][634]LogBlueprintUserMessages: [AIPerson_2] Changed to Patrolling State
+[2019.12.11-06.57.34:529][634]LogBlueprintUserMessages: [AIPerson_2] Changed to Searching State
+[2019.12.11-06.57.35:379][677]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.57.35:379][677]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.57.38:108][841]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.57.38:426][860]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.57.38:426][860]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.57.40:066][955]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.57.40:386][972]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.57.40:386][972]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.57.40:496][978]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.57.44:132][182]LogBlueprintUserMessages: [AIPerson_2] Changed to Chasing State
+[2019.12.11-06.57.44:450][198]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.57.44:450][198]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.57.44:563][204]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.57.44:679][210]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-06.57.44:679][210]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-06.57.44:772][215]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-06.57.45:085][232]LogBlueprintUserMessages: [AIPerson_2] Changed to Patrolling State
+[2019.12.11-06.57.45:085][232]LogBlueprintUserMessages: [AIPerson_2] Changed to Searching State
+[2019.12.11-06.57.52:185][647]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.57.52:185][647]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.57.52:957][692]LogBlueprintUserMessages: [AIPerson_2] Changed to Chasing State
+[2019.12.11-06.57.53:275][710]LogBlueprintUserMessages: [AIPerson_2] Changed to Patrolling State
+[2019.12.11-06.57.53:275][710]LogBlueprintUserMessages: [AIPerson_2] Changed to Searching State
+[2019.12.11-06.57.53:381][716]LogBlueprintUserMessages: [AIPerson_2] Changed to Chasing State
+[2019.12.11-06.57.53:606][729]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.57.54:357][773]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.57.54:357][773]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.57.55:126][819]LogBlueprintUserMessages: [AIPerson3_2] Changed to Chasing State
+[2019.12.11-06.57.55:436][838]LogBlueprintUserMessages: [AIPerson3_2] Changed to Patrolling State
+[2019.12.11-06.57.55:436][838]LogBlueprintUserMessages: [AIPerson3_2] Changed to Searching State
+[2019.12.11-06.57.57:509][959]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.57.57:510][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.57.57:510][959]LogWorld: BeginTearingDown for /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-06.57.57:510][959]LogWorld: UWorld::CleanupWorld for KrisTestWorld, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.57.57:561][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-06.57.57:561][959]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.57.57:613][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.57.57:620][959]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2019.12.11-06.57.57:643][960]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.12.11-06.58.01:164][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.58.01:269][117]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-06.58.01:287][117]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.58.01:287][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-06.58.01:287][117]PIE: New page: PIE session: KrisTestWorld (Dec 10, 2019, 8:58:01 PM)
+[2019.12.11-06.58.01:287][117]LogPlayLevel: Creating play world package: /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-06.58.01:290][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003291s)
+[2019.12.11-06.58.01:292][117]LogAIModule: Creating AISystem for world KrisTestWorld
+[2019.12.11-06.58.01:293][117]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2019.12.11-06.58.01:293][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KrisStuff/KrisTestWorld.KrisTestWorld to /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld (0.004642s)
+[2019.12.11-06.58.01:333][117]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.12.11-06.58.01:341][117]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-06.58.01:373][117]LogInit: FAudioDevice initialized.
+[2019.12.11-06.58.01:385][117]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-06.58.01:387][117]LogWorld: Bringing World /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld up for play (max tick rate 0) at 2019.12.11-01.58.01
+[2019.12.11-06.58.01:388][117]LogWorld: Bringing up level for play took: 0.002043
+[2019.12.11-06.58.01:388][117]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2019.12.11-06.58.01:390][117]PIE: Play in editor start time for /Game/KrisStuff/UEDPIE_0_KrisTestWorld -0.733
+[2019.12.11-06.58.01:391][117]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.58.03:173][217]LogBlueprintUserMessages: [AIPerson_2] Changed to Chasing State
+[2019.12.11-06.58.03:489][232]LogBlueprintUserMessages: [AIPerson_2] Changed to Patrolling State
+[2019.12.11-06.58.03:489][232]LogBlueprintUserMessages: [AIPerson_2] Changed to Searching State
+[2019.12.11-06.58.07:589][484]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.58.07:589][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.58.07:589][484]LogWorld: BeginTearingDown for /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-06.58.07:590][484]LogWorld: UWorld::CleanupWorld for KrisTestWorld, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.58.07:639][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-06.58.07:639][484]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-06.58.07:690][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.58.07:696][484]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.12.11-06.58.07:719][485]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.12.11-06.58.16:243][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.12.11-06.58.16:251][874]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-06.58.16:304][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.12.11-06.58.16:607][874]LogSavePackage: Moving '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/KrisTestWorld9B9CEC7A4738976F2607E0AC9EB78730.tmp' to '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/KrisTestWorld.umap'
+[2019.12.11-06.58.16:665][874]LogFileHelpers: Saving map 'KrisTestWorld' took 0.407
+[2019.12.11-06.58.19:053][874]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2019.12.11-06.58.23:139][874]LogSavePackage: Moving '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/JennaLevel13C5746D47255A39537DA588DF77378F.tmp' to '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/Maps/JennaLevel.umap'
+[2019.12.11-06.58.24:215][874]LogFileHelpers: Saving map 'JennaLevel' took 7.548
+[2019.12.11-06.58.24:439][874]LogSavePackage: Moving '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/AIPersonB9E52ADF4F918DBB72DBE9974B878E35.tmp' to '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/KrisStuff/AIPerson.uasset'
