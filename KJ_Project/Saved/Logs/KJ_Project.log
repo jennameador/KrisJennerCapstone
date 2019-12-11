@@ -524,3 +524,653 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.11-03.44.16:067][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
 [2019.12.11-03.44.16:067][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3
 [2019.12.11-03.44.16:150][  0]LogMaterial: Display: Missing cached shader map for material Branch, compiling. 
+[2019.12.11-03.44.23:354][  0]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 512X512)
+[2019.12.11-03.44.23:354][  0]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 1024X1024)
+[2019.12.11-03.44.23:354][  0]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 1024X1024)
+[2019.12.11-03.44.23:354][  0]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 512X512)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 128X128)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 128X128)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 64X64)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 512X512)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 512X512)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 512X512)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 128X128)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 128X128)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 64X64)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2019.12.11-03.44.23:355][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 512X512)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 1024X512)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (BGRA8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (BGRA8, 1024X128)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 1024X64)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 1024X128)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 1024X64)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 1024X256)
+[2019.12.11-03.44.23:356][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 1024X128)
+[2019.12.11-03.44.23:357][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 1024X64)
+[2019.12.11-03.44.23:357][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 64X64)
+[2019.12.11-03.44.23:357][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 32X32)
+[2019.12.11-03.44.23:357][  0]LogAIModule: Creating AISystem for world JennaLevel
+[2019.12.11-03.44.26:817][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.12.11-03.44.27:159][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2019.12.11-03.44.27:160][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.11-03.44.27:160][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.472ms to complete.
+[2019.12.11-03.44.27:160][  0]LogFileHelpers: Loading map 'JennaLevel' took 11.978
+[2019.12.11-03.44.31:875][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-03.44.31:883][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-03.44.31:889][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-03.44.31:896][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-03.44.31:912][  0]LogCollectionManager: Loaded 0 collections in 0.006958 seconds
+[2019.12.11-03.44.31:930][  0]LogFileCache: Scanning file cache for directory 'C:/Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/Collections/' took 0.00s
+[2019.12.11-03.44.31:930][  0]LogFileCache: Scanning file cache for directory 'C:/Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/Developers/constantino4/Collections/' took 0.00s
+[2019.12.11-03.44.31:930][  0]LogFileCache: Scanning file cache for directory 'C:/Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/Collections/' took 0.00s
+[2019.12.11-03.44.31:930][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.12.11-03.44.31:939][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2863 classes and 680 folders.
+[2019.12.11-03.44.31:953][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.11-03.44.32:054][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.11-03.44.32:064][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.11-03.44.34:164][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 113
+[2019.12.11-03.44.34:165][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 103
+[2019.12.11-03.44.34:165][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 93
+[2019.12.11-03.44.34:165][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 83
+[2019.12.11-03.44.34:165][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 73
+[2019.12.11-03.44.34:165][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.11-03.44.34:208][  0]LogSlate: Took 0.000356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.11-03.44.34:212][  0]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.11-03.44.34:221][  0]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.11-03.44.34:341][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2019.12.11-03.44.34:490][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-03.44.34:514][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.12.11-03.44.34:575][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.11-03.44.34:576][  0]LogLoad: (Engine Initialization) Total time: 29.80 seconds
+[2019.12.11-03.44.34:576][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.11-03.44.34:994][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.11-03.44.35:078][  0]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.11-03.44.35:085][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/' took 0.49s
+[2019.12.11-03.44.35:235][  2]LogAssetRegistry: Asset discovery search completed in 24.5212 seconds
+[2019.12.11-03.44.35:242][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2019.12.11-03.44.35:242][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000088 seconds (updated 0 objects)
+[2019.12.11-03.44.36:834][ 22]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.11-03.44.47:645][ 97]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 63
+[2019.12.11-03.44.47:645][ 97]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 53
+[2019.12.11-03.44.47:645][ 97]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2019.12.11-03.44.47:645][ 97]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2019.12.11-03.44.51:136][231]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.12.11-03.44.52:381][292]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.12.11-03.44.52:381][292]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2019.12.11-03.44.52:871][311]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.12.11-03.44.52:898][312]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.12.11-03.44.54:368][372]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.12.11-03.44.54:674][384]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.12.11-03.44.54:980][391]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.12.11-03.45.01:754][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.45.02:089][606]LogAIModule: Creating AISystem for world KrisTestWorld
+[2019.12.11-03.45.02:097][606]LogAssetEditorManager: Opening Asset editor for World /Game/KrisStuff/KrisTestWorld.KrisTestWorld
+[2019.12.11-03.45.02:124][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.12.11-03.45.02:126][606]LightingResults: New page: Lighting Build
+[2019.12.11-03.45.02:126][606]LoadErrors: New page: Loading map: KrisTestWorld.umap
+[2019.12.11-03.45.02:141][606]LogWorld: UWorld::CleanupWorld for JennaLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-03.45.02:159][606]MapCheck: New page: Map Check
+[2019.12.11-03.45.02:159][606]LightingResults: New page: Lighting Build
+[2019.12.11-03.45.02:243][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.12.11-03.45.02:348][606]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.11-03.45.02:376][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.12.11-03.45.02:408][606]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.11-03.45.02:408][606]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.171ms to complete.
+[2019.12.11-03.45.02:408][606]LogFileHelpers: Loading map 'KrisTestWorld' took 0.284
+[2019.12.11-03.45.04:440][694]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-03.45.04:455][694]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-03.45.04:455][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-03.45.04:456][694]PIE: New page: PIE session: KrisTestWorld (Dec 10, 2019, 5:45:04 PM)
+[2019.12.11-03.45.04:457][694]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.11-03.45.04:459][694]LogPlayLevel: Creating play world package: /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-03.45.04:462][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003598s)
+[2019.12.11-03.45.04:464][694]LogAIModule: Creating AISystem for world KrisTestWorld
+[2019.12.11-03.45.04:464][694]LogPlayLevel: PIE: World Init took: (0.001513s)
+[2019.12.11-03.45.04:464][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/KrisStuff/KrisTestWorld.KrisTestWorld to /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld (0.005451s)
+[2019.12.11-03.45.04:487][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.12.11-03.45.04:496][694]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-03.45.04:528][694]LogInit: FAudioDevice initialized.
+[2019.12.11-03.45.04:539][694]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-03.45.04:542][694]LogWorld: Bringing World /Game/KrisStuff/UEDPIE_0_KrisTestWorld.KrisTestWorld up for play (max tick rate 0) at 2019.12.10-22.45.04
+[2019.12.11-03.45.04:544][694]LogWorld: Bringing up level for play took: 0.003570
+[2019.12.11-03.45.04:544][694]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.12.11-03.45.04:564][694]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.12.11-03.45.04:566][694]PIE: Play in editor start time for /Game/KrisStuff/UEDPIE_0_KrisTestWorld 0.696
+[2019.12.11-03.45.04:566][694]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-03.45.10:284][ 30]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-03.45.10:820][ 58]LogBlueprintUserMessages: [AIPerson2_5] Changed to Wandering State
+[2019.12.11-03.45.10:820][ 58]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-03.45.11:348][ 87]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-03.45.24:625][886]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-03.45.24:625][886]LogBlueprintUserMessages: [AIPerson2_5] Changed to Wandering State
+[2019.12.11-03.45.24:625][886]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-03.45.25:509][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-03.45.25:509][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-03.45.25:509][947]LogWorld: BeginTearingDown for /Game/KrisStuff/UEDPIE_0_KrisTestWorld
+[2019.12.11-03.45.25:509][947]LogWorld: UWorld::CleanupWorld for KrisTestWorld, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-03.45.25:548][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-03.45.25:548][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld' with GeneratedClass '/Game/KrisStuff/KrisTestWorld.KrisTestWorld_C' with ClassGeneratedBy '/Game/KrisStuff/KrisTestWorld.KrisTestWorld:PersistentLevel.KrisTestWorld'
+[2019.12.11-03.45.25:574][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-03.45.25:577][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.12.11-03.45.25:632][949]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.11-03.45.34:600][508]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C3BFA137-485B-C5DB-68FF-248BE8DE99E8}
+[2019.12.11-03.45.52:840][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.45.57:308][745]LogAIModule: Creating AISystem for world JennaLevel
+[2019.12.11-03.45.58:216][745]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/JennaLevel.JennaLevel
+[2019.12.11-03.45.58:264][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.12.11-03.45.58:265][745]LightingResults: New page: Lighting Build
+[2019.12.11-03.45.58:266][745]LoadErrors: New page: Loading map: JennaLevel.umap
+[2019.12.11-03.45.58:266][745]LogWorld: UWorld::CleanupWorld for KrisTestWorld, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-03.45.58:266][745]MapCheck: New page: Map Check
+[2019.12.11-03.45.58:266][745]LightingResults: New page: Lighting Build
+[2019.12.11-03.45.58:292][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.12.11-03.46.00:604][745]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.11-03.46.00:810][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.12.11-03.46.00:845][745]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.11-03.46.00:845][745]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.393ms to complete.
+[2019.12.11-03.46.00:845][745]LogFileHelpers: Loading map 'JennaLevel' took 2.581
+[2019.12.11-03.47.53:008][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.48.54:488][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-03.49.03:199][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.49.30:310][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.50.09:708][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.50.18:638][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.50.35:443][303]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-03.50.36:485][335]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson2)
+[2019.12.11-03.50.48:836][725]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-03.50.59:292][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.51.20:433][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.51.42:108][420]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson3)
+[2019.12.11-03.51.45:325][530]Cmd: TRANSACTION UNDO
+[2019.12.11-03.51.45:325][530]LogEditorTransaction: Undo Move Actors
+[2019.12.11-03.51.45:673][540]Cmd: TRANSACTION UNDO
+[2019.12.11-03.51.45:673][540]LogEditorTransaction: Undo Move Actors
+[2019.12.11-03.51.45:700][540]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.AIPerson3_8.CollisionCylinder) Component already registered.
+[2019.12.11-03.51.46:168][557]Cmd: TRANSACTION UNDO
+[2019.12.11-03.51.46:169][557]LogEditorTransaction: Undo Move Actors
+[2019.12.11-03.51.46:226][557]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.AIPerson3_8.CollisionCylinder) Component already registered.
+[2019.12.11-03.52.00:831][ 10]LogSlate: Took 0.000363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.11-03.52.06:817][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.52.18:310][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.52.33:599][ 63]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson2)
+[2019.12.11-03.52.40:755][315]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson4)
+[2019.12.11-03.52.49:653][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.53.13:292][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.53.39:376][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.53.39:468][119]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-03.53.39:488][119]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-03.53.39:488][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-03.53.39:488][119]PIE: New page: PIE session: JennaLevel (Dec 10, 2019, 5:53:39 PM)
+[2019.12.11-03.53.39:488][119]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.11-03.53.40:243][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.753830s)
+[2019.12.11-03.53.40:244][119]LogAIModule: Creating AISystem for world JennaLevel
+[2019.12.11-03.53.40:244][119]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2019.12.11-03.53.40:244][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JennaLevel.JennaLevel to /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel (0.755501s)
+[2019.12.11-03.53.40:272][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.12.11-03.53.40:281][119]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-03.53.40:316][119]LogInit: FAudioDevice initialized.
+[2019.12.11-03.53.40:327][119]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-03.53.40:413][119]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel up for play (max tick rate 0) at 2019.12.10-22.53.40
+[2019.12.11-03.53.40:431][119]LogWorld: Bringing up level for play took: 0.103450
+[2019.12.11-03.53.40:431][119]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.11-03.53.40:435][119]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_JennaLevel 0.549
+[2019.12.11-03.53.40:436][119]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-03.53.49:041][473]LogBlueprintUserMessages: [AIPerson4_11] Changed to Chasing State
+[2019.12.11-03.53.49:776][501]LogBlueprintUserMessages: [AIPerson4_11] Changed to Wandering State
+[2019.12.11-03.53.49:776][501]LogBlueprintUserMessages: [AIPerson4_11] Changed to Searching State
+[2019.12.11-03.53.49:882][505]LogBlueprintUserMessages: [AIPerson4_11] Changed to Chasing State
+[2019.12.11-03.53.50:422][525]LogBlueprintUserMessages: [AIPerson4_11] Changed to Patrolling State
+[2019.12.11-03.53.50:422][525]LogBlueprintUserMessages: [AIPerson4_11] Changed to Wandering State
+[2019.12.11-03.53.50:422][525]LogBlueprintUserMessages: [AIPerson4_11] Changed to Searching State
+[2019.12.11-03.53.50:529][529]LogBlueprintUserMessages: [AIPerson4_11] Changed to Chasing State
+[2019.12.11-03.53.51:498][563]LogBlueprintUserMessages: [AIPerson4_11] Changed to Patrolling State
+[2019.12.11-03.53.51:498][563]LogBlueprintUserMessages: [AIPerson4_11] Changed to Wandering State
+[2019.12.11-03.53.51:498][563]LogBlueprintUserMessages: [AIPerson4_11] Changed to Searching State
+[2019.12.11-03.53.51:645][568]LogBlueprintUserMessages: [AIPerson4_11] Changed to Chasing State
+[2019.12.11-03.53.51:963][579]LogBlueprintUserMessages: [AIPerson4_11] Changed to Patrolling State
+[2019.12.11-03.53.51:963][579]LogBlueprintUserMessages: [AIPerson4_11] Changed to Wandering State
+[2019.12.11-03.53.51:963][579]LogBlueprintUserMessages: [AIPerson4_11] Changed to Searching State
+[2019.12.11-03.53.52:345][592]LogBlueprintUserMessages: [AIPerson4_11] Changed to Chasing State
+[2019.12.11-03.53.52:667][603]LogBlueprintUserMessages: [AIPerson4_11] Changed to Patrolling State
+[2019.12.11-03.53.52:667][603]LogBlueprintUserMessages: [AIPerson4_11] Changed to Wandering State
+[2019.12.11-03.53.52:667][603]LogBlueprintUserMessages: [AIPerson4_11] Changed to Searching State
+[2019.12.11-03.53.53:061][616]LogBlueprintUserMessages: [AIPerson4_11] Changed to Chasing State
+[2019.12.11-03.53.53:619][632]LogBlueprintUserMessages: [AIPerson4_11] Changed to Patrolling State
+[2019.12.11-03.53.53:619][632]LogBlueprintUserMessages: [AIPerson4_11] Changed to Wandering State
+[2019.12.11-03.53.53:619][632]LogBlueprintUserMessages: [AIPerson4_11] Changed to Searching State
+[2019.12.11-03.53.53:753][636]LogBlueprintUserMessages: [AIPerson4_11] Changed to Chasing State
+[2019.12.11-03.53.54:200][653]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-03.53.58:796][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-03.53.58:797][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-03.53.58:797][876]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.11-03.53.58:798][876]LogWorld: UWorld::CleanupWorld for JennaLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-03.53.58:855][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-03.53.58:855][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-03.53.58:894][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-03.53.58:943][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.12.11-03.53.58:970][877]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.11-03.54.10:707][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.55.21:211][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.55.21:306][520]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-03.55.21:329][520]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-03.55.21:329][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-03.55.21:329][520]PIE: New page: PIE session: JennaLevel (Dec 10, 2019, 5:55:21 PM)
+[2019.12.11-03.55.21:329][520]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.11-03.55.22:051][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.722533s)
+[2019.12.11-03.55.22:052][520]LogAIModule: Creating AISystem for world JennaLevel
+[2019.12.11-03.55.22:052][520]LogPlayLevel: PIE: World Init took: (0.001304s)
+[2019.12.11-03.55.22:053][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JennaLevel.JennaLevel to /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel (0.724672s)
+[2019.12.11-03.55.22:077][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.12.11-03.55.22:085][520]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-03.55.22:117][520]LogInit: FAudioDevice initialized.
+[2019.12.11-03.55.22:124][520]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-03.55.22:209][520]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel up for play (max tick rate 0) at 2019.12.10-22.55.22
+[2019.12.11-03.55.22:213][520]LogWorld: Bringing up level for play took: 0.087984
+[2019.12.11-03.55.22:213][520]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.11-03.55.22:217][520]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_JennaLevel 0.328
+[2019.12.11-03.55.22:217][520]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-03.55.30:418][858]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-03.55.30:936][881]LogBlueprintUserMessages: [AIPerson3_8] Changed to Wandering State
+[2019.12.11-03.55.30:936][881]LogBlueprintUserMessages: [AIPerson3_8] Changed to Searching State
+[2019.12.11-03.55.31:063][887]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-03.55.31:276][897]LogBlueprintUserMessages: [AIPerson4_11] Changed to Chasing State
+[2019.12.11-03.55.32:847][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-03.55.32:847][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-03.55.32:847][968]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.11-03.55.32:851][968]LogWorld: UWorld::CleanupWorld for JennaLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-03.55.32:912][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-03.55.32:912][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-03.55.32:950][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-03.55.33:008][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.12.11-03.55.33:035][969]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.11-03.55.42:076][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.56.10:975][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.56.11:070][208]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-03.56.11:091][208]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-03.56.11:091][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-03.56.11:091][208]PIE: New page: PIE session: JennaLevel (Dec 10, 2019, 5:56:11 PM)
+[2019.12.11-03.56.11:091][208]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.11-03.56.11:774][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.683189s)
+[2019.12.11-03.56.11:775][208]LogAIModule: Creating AISystem for world JennaLevel
+[2019.12.11-03.56.11:775][208]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2019.12.11-03.56.11:775][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JennaLevel.JennaLevel to /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel (0.684501s)
+[2019.12.11-03.56.11:799][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.12.11-03.56.11:806][208]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-03.56.11:838][208]LogInit: FAudioDevice initialized.
+[2019.12.11-03.56.11:848][208]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-03.56.11:934][208]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel up for play (max tick rate 0) at 2019.12.10-22.56.11
+[2019.12.11-03.56.11:937][208]LogWorld: Bringing up level for play took: 0.089008
+[2019.12.11-03.56.11:938][208]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.12.11-03.56.11:941][208]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_JennaLevel 0.051
+[2019.12.11-03.56.11:942][208]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-03.56.24:006][716]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-03.56.24:317][728]LogBlueprintUserMessages: [AIPerson3_8] Changed to Wandering State
+[2019.12.11-03.56.24:317][728]LogBlueprintUserMessages: [AIPerson3_8] Changed to Searching State
+[2019.12.11-03.56.25:543][774]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-03.56.26:087][796]LogBlueprintUserMessages: [AIPerson3_8] Changed to Patrolling State
+[2019.12.11-03.56.26:087][796]LogBlueprintUserMessages: [AIPerson3_8] Changed to Wandering State
+[2019.12.11-03.56.26:087][796]LogBlueprintUserMessages: [AIPerson3_8] Changed to Searching State
+[2019.12.11-03.56.35:569][225]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-03.56.35:878][236]LogBlueprintUserMessages: [AIPerson3_8] Changed to Patrolling State
+[2019.12.11-03.56.35:878][236]LogBlueprintUserMessages: [AIPerson3_8] Changed to Wandering State
+[2019.12.11-03.56.35:878][236]LogBlueprintUserMessages: [AIPerson3_8] Changed to Searching State
+[2019.12.11-03.56.43:387][589]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-03.56.43:387][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-03.56.43:387][589]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.11-03.56.43:389][589]LogWorld: UWorld::CleanupWorld for JennaLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-03.56.43:444][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-03.56.43:445][589]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-03.56.43:474][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-03.56.43:531][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.12.11-03.56.43:556][590]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.11-03.57.22:719][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.57.28:695][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.57.48:126][706]LogEditorViewport: Clicking on Actor (LMB): TREE_C (TREE1720)
+[2019.12.11-03.57.49:081][736]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson5)
+[2019.12.11-03.58.14:881][616]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson2)
+[2019.12.11-03.59.00:075][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-03.59.00:162][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.12.11-03.59.03:913][ 76]LogSavePackage: Moving '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/JennaLevel_Auto1069073FE4E526AEFEBC9DA86AB37C787.tmp' to '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/Autosaves/Game/Maps/JennaLevel_Auto1.umap'
+[2019.12.11-03.59.03:931][ 76]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/JennaLevel' took 3.793
+[2019.12.11-03.59.03:931][ 76]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.793
+[2019.12.11-03.59.24:757][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-03.59.24:858][708]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-03.59.24:881][708]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-03.59.24:883][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-03.59.24:883][708]PIE: New page: PIE session: JennaLevel (Dec 10, 2019, 5:59:24 PM)
+[2019.12.11-03.59.24:883][708]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.11-03.59.25:613][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.730080s)
+[2019.12.11-03.59.25:614][708]LogAIModule: Creating AISystem for world JennaLevel
+[2019.12.11-03.59.25:614][708]LogPlayLevel: PIE: World Init took: (0.001424s)
+[2019.12.11-03.59.25:615][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JennaLevel.JennaLevel to /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel (0.731991s)
+[2019.12.11-03.59.25:640][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.12.11-03.59.25:652][708]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-03.59.25:686][708]LogInit: FAudioDevice initialized.
+[2019.12.11-03.59.25:694][708]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-03.59.25:795][708]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel up for play (max tick rate 0) at 2019.12.10-22.59.25
+[2019.12.11-03.59.25:801][708]LogWorld: Bringing up level for play took: 0.105769
+[2019.12.11-03.59.25:801][708]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.12.11-03.59.25:806][708]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_JennaLevel 1.911
+[2019.12.11-03.59.25:807][708]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-03.59.30:867][907]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-03.59.31:196][918]LogBlueprintUserMessages: [AIPerson3_8] Changed to Wandering State
+[2019.12.11-03.59.31:196][918]LogBlueprintUserMessages: [AIPerson3_8] Changed to Searching State
+[2019.12.11-03.59.31:316][922]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-03.59.35:488][ 92]LogBlueprintUserMessages: [AIPerson3_8] Changed to Patrolling State
+[2019.12.11-03.59.35:488][ 92]LogBlueprintUserMessages: [AIPerson3_8] Changed to Wandering State
+[2019.12.11-03.59.35:488][ 92]LogBlueprintUserMessages: [AIPerson3_8] Changed to Searching State
+[2019.12.11-03.59.35:607][ 98]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-03.59.38:788][239]LogBlueprintUserMessages: [AIPerson3_8] Changed to Patrolling State
+[2019.12.11-03.59.38:788][239]LogBlueprintUserMessages: [AIPerson3_8] Changed to Wandering State
+[2019.12.11-03.59.38:788][239]LogBlueprintUserMessages: [AIPerson3_8] Changed to Searching State
+[2019.12.11-03.59.44:996][499]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-03.59.48:325][647]LogBlueprintUserMessages: [AIPerson5_14] Changed to Chasing State
+[2019.12.11-03.59.48:863][667]LogBlueprintUserMessages: [AIPerson5_14] Changed to Wandering State
+[2019.12.11-03.59.48:863][667]LogBlueprintUserMessages: [AIPerson5_14] Changed to Searching State
+[2019.12.11-03.59.48:982][672]LogBlueprintUserMessages: [AIPerson5_14] Changed to Chasing State
+[2019.12.11-03.59.49:735][706]LogBlueprintUserMessages: [AIPerson5_14] Changed to Patrolling State
+[2019.12.11-03.59.49:735][706]LogBlueprintUserMessages: [AIPerson5_14] Changed to Wandering State
+[2019.12.11-03.59.49:735][706]LogBlueprintUserMessages: [AIPerson5_14] Changed to Searching State
+[2019.12.11-03.59.50:052][721]LogBlueprintUserMessages: [AIPerson5_14] Changed to Chasing State
+[2019.12.11-03.59.50:368][736]LogBlueprintUserMessages: [AIPerson5_14] Changed to Patrolling State
+[2019.12.11-03.59.50:368][736]LogBlueprintUserMessages: [AIPerson5_14] Changed to Wandering State
+[2019.12.11-03.59.50:369][736]LogBlueprintUserMessages: [AIPerson5_14] Changed to Searching State
+[2019.12.11-03.59.50:706][752]LogBlueprintUserMessages: [AIPerson5_14] Changed to Chasing State
+[2019.12.11-03.59.53:803][882]LogBlueprintUserMessages: [AIPerson3_8] Changed to Patrolling State
+[2019.12.11-03.59.53:803][882]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-04.00.01:074][194]LogBlueprintUserMessages: [AIPerson5_14] Changed to Patrolling State
+[2019.12.11-04.00.01:074][194]LogBlueprintUserMessages: [AIPerson5_14] Changed to Wandering State
+[2019.12.11-04.00.01:074][194]LogBlueprintUserMessages: [AIPerson5_14] Changed to Searching State
+[2019.12.11-04.00.01:186][199]LogBlueprintUserMessages: [AIPerson5_14] Changed to Chasing State
+[2019.12.11-04.00.02:376][249]LogBlueprintUserMessages: [AIPerson3_8] Changed to Wandering State
+[2019.12.11-04.00.02:376][249]LogBlueprintUserMessages: [AIPerson3_8] Changed to Searching State
+[2019.12.11-04.00.02:376][249]LogBlueprintUserMessages: [AIPerson5_14] Changed to Patrolling State
+[2019.12.11-04.00.02:376][249]LogBlueprintUserMessages: [AIPerson5_14] Changed to Wandering State
+[2019.12.11-04.00.02:376][249]LogBlueprintUserMessages: [AIPerson5_14] Changed to Searching State
+[2019.12.11-04.00.02:731][267]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-04.00.03:039][282]LogBlueprintUserMessages: [AIPerson3_8] Changed to Patrolling State
+[2019.12.11-04.00.03:039][282]LogBlueprintUserMessages: [AIPerson3_8] Changed to Wandering State
+[2019.12.11-04.00.03:039][282]LogBlueprintUserMessages: [AIPerson3_8] Changed to Searching State
+[2019.12.11-04.00.22:405][184]LogBlueprintUserMessages: [AIPerson_2] Changed to Chasing State
+[2019.12.11-04.00.29:063][493]LogBlueprintUserMessages: [AIPerson_2] Changed to Wandering State
+[2019.12.11-04.00.29:063][493]LogBlueprintUserMessages: [AIPerson_2] Changed to Searching State
+[2019.12.11-04.00.29:171][497]LogBlueprintUserMessages: [AIPerson4_11] Changed to Chasing State
+[2019.12.11-04.00.29:493][508]LogBlueprintUserMessages: [AIPerson4_11] Changed to Wandering State
+[2019.12.11-04.00.29:493][508]LogBlueprintUserMessages: [AIPerson4_11] Changed to Searching State
+[2019.12.11-04.00.29:853][520]LogBlueprintUserMessages: [AIPerson4_11] Changed to Chasing State
+[2019.12.11-04.00.29:853][520]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-04.00.30:407][539]LogBlueprintUserMessages: [AIPerson2_5] Changed to Wandering State
+[2019.12.11-04.00.30:407][539]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-04.00.31:065][563]LogBlueprintUserMessages: [AIPerson4_11] Changed to Patrolling State
+[2019.12.11-04.00.31:066][563]LogBlueprintUserMessages: [AIPerson4_11] Changed to Wandering State
+[2019.12.11-04.00.31:066][563]LogBlueprintUserMessages: [AIPerson4_11] Changed to Searching State
+[2019.12.11-04.01.38:116][288]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-04.01.43:593][482]LogBlueprintUserMessages: [AIPerson2_5] Changed to Patrolling State
+[2019.12.11-04.01.43:593][482]LogBlueprintUserMessages: [AIPerson2_5] Changed to Wandering State
+[2019.12.11-04.01.43:593][482]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-04.01.55:647][929]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-04.01.55:965][942]LogBlueprintUserMessages: [AIPerson3_8] Changed to Wandering State
+[2019.12.11-04.01.55:965][942]LogBlueprintUserMessages: [AIPerson3_8] Changed to Searching State
+[2019.12.11-04.02.04:773][258]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-04.02.04:773][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-04.02.04:773][258]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.11-04.02.04:775][258]LogWorld: UWorld::CleanupWorld for JennaLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-04.02.04:866][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-04.02.04:866][258]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-04.02.04:913][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-04.02.04:968][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.12.11-04.02.04:999][259]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.11-04.02.12:968][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.02.13:203][494]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/KrisStuff/AIPerson.AIPerson
+[2019.12.11-04.02.13:453][494]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.12.11-04.02.14:358][494]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.11-04.02.17:418][569]LogSlate: Window 'AIPerson' being destroyed
+[2019.12.11-04.02.18:188][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.02.27:606][511]BlueprintLog: New page: Compile AIPerson
+[2019.12.11-04.02.27:969][511]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2019.12.11-04.02.29:475][561]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-04.02.29:496][561]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-04.02.29:496][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-04.02.29:496][561]PIE: New page: PIE session: JennaLevel (Dec 10, 2019, 6:02:29 PM)
+[2019.12.11-04.02.29:496][561]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.11-04.02.30:252][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.755215s)
+[2019.12.11-04.02.30:253][561]LogAIModule: Creating AISystem for world JennaLevel
+[2019.12.11-04.02.30:253][561]LogPlayLevel: PIE: World Init took: (0.001172s)
+[2019.12.11-04.02.30:254][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JennaLevel.JennaLevel to /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel (0.757094s)
+[2019.12.11-04.02.30:287][561]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.12.11-04.02.30:298][561]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-04.02.30:335][561]LogInit: FAudioDevice initialized.
+[2019.12.11-04.02.30:348][561]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-04.02.30:444][561]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel up for play (max tick rate 0) at 2019.12.10-23.02.30
+[2019.12.11-04.02.30:450][561]LogWorld: Bringing up level for play took: 0.100702
+[2019.12.11-04.02.30:450][561]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.11-04.02.30:455][561]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_JennaLevel 0.555
+[2019.12.11-04.02.30:455][561]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-04.02.42:433][ 22]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-04.02.45:775][169]LogBlueprintUserMessages: [AIPerson3_8] Changed to Searching State
+[2019.12.11-04.02.46:111][186]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-04.02.53:458][507]LogBlueprintUserMessages: [AIPerson3_8] Changed to Searching State
+[2019.12.11-04.02.54:717][557]LogBlueprintUserMessages: [AIPerson4_11] Changed to Chasing State
+[2019.12.11-04.02.55:039][569]LogBlueprintUserMessages: [AIPerson4_11] Changed to Searching State
+[2019.12.11-04.02.55:147][573]LogBlueprintUserMessages: [AIPerson4_11] Changed to Chasing State
+[2019.12.11-04.02.56:137][614]LogBlueprintUserMessages: [AIPerson4_11] Changed to Searching State
+[2019.12.11-04.03.08:652][150]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-04.03.09:202][172]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-04.03.10:238][215]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-04.03.14:449][402]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-04.03.14:575][408]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-04.03.21:683][726]LogBlueprintUserMessages: [AIPerson2_5] Changed to Searching State
+[2019.12.11-04.03.21:813][732]LogBlueprintUserMessages: [AIPerson2_5] Changed to Chasing State
+[2019.12.11-04.03.23:156][798]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-04.03.23:156][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-04.03.23:156][798]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.11-04.03.23:158][798]LogWorld: UWorld::CleanupWorld for JennaLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-04.03.23:221][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-04.03.23:222][798]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-04.03.23:266][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-04.03.23:323][798]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.12.11-04.03.23:350][799]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.11-04.03.32:562][144]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson4)
+[2019.12.11-04.03.44:005][536]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson)
+[2019.12.11-04.04.11:129][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.04.20:333][778]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-04.04.22:607][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.04.40:223][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.04.52:933][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.05.07:193][404]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-04.05.08:384][450]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson6)
+[2019.12.11-04.05.21:666][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.05.36:837][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.07.58:731][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.08.39:973][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.09.10:678][112]LogEditorViewport: Clicking on Actor (LMB): TREE_C (TREE872)
+[2019.12.11-04.09.13:278][232]LogEditorViewport: Clicking on Actor (LMB): TREE_C (TREE875)
+[2019.12.11-04.09.14:288][277]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-04.09.16:686][363]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-04.09.18:117][419]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint39)
+[2019.12.11-04.09.26:947][780]LogEditorViewport: Clicking on Actor (LMB): TREE_C (TREE871)
+[2019.12.11-04.09.32:808][ 27]LogEditorViewport: Clicking on Actor (LMB): TREE_C (TREE878)
+[2019.12.11-04.09.34:561][ 98]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint40)
+[2019.12.11-04.09.38:346][242]Cmd: TRANSACTION UNDO
+[2019.12.11-04.09.38:346][242]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.11-04.09.38:768][256]Cmd: TRANSACTION UNDO
+[2019.12.11-04.09.38:768][256]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.11-04.09.39:321][277]Cmd: TRANSACTION UNDO
+[2019.12.11-04.09.39:321][277]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.11-04.09.39:892][298]Cmd: TRANSACTION UNDO
+[2019.12.11-04.09.39:892][298]LogEditorTransaction: Undo Scale Actors
+[2019.12.11-04.09.40:666][327]Cmd: TRANSACTION UNDO
+[2019.12.11-04.09.40:666][327]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.11-04.09.42:538][393]Cmd: TRANSACTION REDO
+[2019.12.11-04.09.42:538][393]LogEditorTransaction: Redo Clicking on Actors
+[2019.12.11-04.09.44:412][463]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-04.09.45:290][492]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-04.09.48:194][584]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson8)
+[2019.12.11-04.09.54:232][825]LogEditorViewport: Clicking on Actor (LMB): TREE_C (TREE871)
+[2019.12.11-04.09.55:190][862]LogEditorViewport: Clicking on Actor (LMB): TREE_C (TREE870)
+[2019.12.11-04.09.57:738][966]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-04.09.58:519][994]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-04.09.59:233][ 20]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-04.09.59:588][ 31]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.12.11-04.10.00:408][ 63]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-04.10.01:149][ 90]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint39)
+[2019.12.11-04.10.06:998][324]Cmd: TRANSACTION UNDO
+[2019.12.11-04.10.06:998][324]LogEditorTransaction: Undo Scale Actors
+[2019.12.11-04.10.08:276][375]Cmd: TRANSACTION UNDO
+[2019.12.11-04.10.08:276][375]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.11-04.10.12:276][536]Cmd: TRANSACTION UNDO
+[2019.12.11-04.10.12:276][536]LogEditorTransaction: Undo Scale Actors
+[2019.12.11-04.10.13:434][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.10.19:191][721]LogEditorViewport: Clicking on Actor (LMB): TREE_C (TREE878)
+[2019.12.11-04.10.20:120][759]LogEditorViewport: Clicking on Actor (LMB): TREE_C (TREE1801)
+[2019.12.11-04.10.22:624][861]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-04.10.23:293][884]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-04.10.23:842][903]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-04.10.24:531][928]LogEditorViewport: Clicking on Actor (LMB): TREE_C (TREE1128)
+[2019.12.11-04.10.25:359][960]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint40)
+[2019.12.11-04.10.27:941][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.10.41:141][462]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson8)
+[2019.12.11-04.10.48:875][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.11.09:367][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.11.33:639][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.11.58:522][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.12.09:769][359]Cmd: TRANSACTION UNDO
+[2019.12.11-04.12.09:769][359]LogEditorTransaction: Undo Edit Y
+[2019.12.11-04.12.09:825][359]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.AIPerson8_23.CollisionCylinder) Component already registered.
+[2019.12.11-04.12.10:424][381]Cmd: TRANSACTION UNDO
+[2019.12.11-04.12.10:424][381]LogEditorTransaction: Undo Add Child
+[2019.12.11-04.12.10:480][381]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.AIPerson8_23.CollisionCylinder) Component already registered.
+[2019.12.11-04.12.11:316][412]Cmd: TRANSACTION UNDO
+[2019.12.11-04.12.11:316][412]LogEditorTransaction: Undo Move Actors
+[2019.12.11-04.12.11:373][412]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.AIPerson8_23.CollisionCylinder) Component already registered.
+[2019.12.11-04.12.12:917][469]Cmd: TRANSACTION UNDO
+[2019.12.11-04.12.12:917][469]LogEditorTransaction: Undo Edit X
+[2019.12.11-04.12.12:974][469]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.AIPerson8_23.CollisionCylinder) Component already registered.
+[2019.12.11-04.12.29:701][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.12.47:014][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.13.19:157][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.13.36:503][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.13.49:650][651]Cmd: EDIT COPY
+[2019.12.11-04.13.50:272][674]Cmd: EDIT PASTE
+[2019.12.11-04.14.06:764][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.14.21:280][813]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-04.14.22:045][839]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-04.14.22:837][867]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson8)
+[2019.12.11-04.14.26:209][999]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson9)
+[2019.12.11-04.14.35:799][375]Cmd: TRANSACTION UNDO
+[2019.12.11-04.14.35:799][375]LogEditorTransaction: Undo Move Actors
+[2019.12.11-04.14.35:851][375]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.AIPerson9.CollisionCylinder) Component already registered.
+[2019.12.11-04.14.58:729][215]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson8)
+[2019.12.11-04.15.01:914][341]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson9)
+[2019.12.11-04.15.33:175][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.15.33:263][502]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-04.15.33:287][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-04.15.33:287][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-04.15.33:287][502]PIE: New page: PIE session: JennaLevel (Dec 10, 2019, 6:15:33 PM)
+[2019.12.11-04.15.33:287][502]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.11-04.15.33:975][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.687691s)
+[2019.12.11-04.15.33:975][502]LogAIModule: Creating AISystem for world JennaLevel
+[2019.12.11-04.15.33:976][502]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2019.12.11-04.15.33:976][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JennaLevel.JennaLevel to /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel (0.689376s)
+[2019.12.11-04.15.34:014][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.12.11-04.15.34:023][502]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-04.15.34:056][502]LogInit: FAudioDevice initialized.
+[2019.12.11-04.15.34:068][502]LogLoad: Game class is 'KJGameMode_C'
+[2019.12.11-04.15.34:163][502]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JennaLevel.JennaLevel up for play (max tick rate 0) at 2019.12.10-23.15.34
+[2019.12.11-04.15.34:169][502]LogWorld: Bringing up level for play took: 0.099963
+[2019.12.11-04.15.34:169][502]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.12.11-04.15.34:174][502]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_JennaLevel 0.26
+[2019.12.11-04.15.34:174][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-04.15.51:960][177]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-04.15.52:498][196]LogBlueprintUserMessages: [AIPerson3_8] Changed to Searching State
+[2019.12.11-04.15.52:621][200]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-04.15.52:931][210]LogBlueprintUserMessages: [AIPerson3_8] Changed to Searching State
+[2019.12.11-04.15.53:064][214]LogBlueprintUserMessages: [AIPerson4_11] Changed to Chasing State
+[2019.12.11-04.15.53:272][220]LogBlueprintUserMessages: [AIPerson3_8] Changed to Chasing State
+[2019.12.11-04.15.53:383][223]LogBlueprintUserMessages: [AIPerson4_11] Changed to Searching State
+[2019.12.11-04.15.53:612][230]LogBlueprintUserMessages: [AIPerson3_8] Changed to Searching State
+[2019.12.11-04.15.53:707][233]LogBlueprintUserMessages: [AIPerson4_11] Changed to Chasing State
+[2019.12.11-04.15.54:023][243]LogBlueprintUserMessages: [AIPerson4_11] Changed to Searching State
+[2019.12.11-04.15.56:737][371]LogBlueprintUserMessages: [AIPerson5_14] Changed to Chasing State
+[2019.12.11-04.15.59:420][482]LogBlueprintUserMessages: [AIPerson5_14] Changed to Searching State
+[2019.12.11-04.16.03:742][682]LogBlueprintUserMessages: [AIPerson7_20] Changed to Chasing State
+[2019.12.11-04.16.04:929][731]LogBlueprintUserMessages: [AIPerson7_20] Changed to Searching State
+[2019.12.11-04.16.05:036][736]LogBlueprintUserMessages: [AIPerson6_17] Changed to Chasing State
+[2019.12.11-04.16.10:494][970]LogBlueprintUserMessages: [AIPerson9] Changed to Chasing State
+[2019.12.11-04.16.10:828][981]LogBlueprintUserMessages: [AIPerson9] Changed to Searching State
+[2019.12.11-04.16.10:957][985]LogBlueprintUserMessages: [AIPerson9] Changed to Chasing State
+[2019.12.11-04.16.18:802][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-04.16.18:803][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-04.16.18:803][312]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JennaLevel
+[2019.12.11-04.16.18:805][312]LogWorld: UWorld::CleanupWorld for JennaLevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-04.16.18:865][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-04.16.18:865][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel' with GeneratedClass '/Game/Maps/JennaLevel.JennaLevel_C' with ClassGeneratedBy '/Game/Maps/JennaLevel.JennaLevel:PersistentLevel.JennaLevel'
+[2019.12.11-04.16.18:925][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-04.16.18:972][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.12.11-04.16.18:988][313]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.11-04.17.02:462][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.17.20:983][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.17.32:987][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.18.04:630][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.18.35:373][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.18.38:344][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.18.46:582][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.19.13:931][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.20.11:270][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.20.15:971][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.20.33:629][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.20.42:613][672]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-04.20.44:409][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.21.00:520][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.21.15:129][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.21.28:231][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-04.21.41:694][358]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-04.21.42:526][380]LogEditorViewport: Clicking on Actor (LMB): AIPerson_C (AIPerson13)
+[2019.12.11-04.22.07:369][133]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-04.23.21:817][  1]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-04.23.21:908][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.12.11-04.23.25:848][  1]LogSavePackage: Moving '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/JennaLevel09B730FD4FD5FB93C4079B889AC61726.tmp' to '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/Maps/JennaLevel.umap'
+[2019.12.11-04.23.28:271][  1]LogSavePackage: Moving '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Saved/JennaLevel_BuiltData82B2F8E54D156BA62A74789BA7907F9C.tmp' to '../../../../../../Users/constantino4/OneDrive - Marshall University/CIT 490 (Capstone)/KrisJennerCapstone/KJ_Project/Content/Maps/JennaLevel_BuiltData.uasset'
